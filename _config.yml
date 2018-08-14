@@ -1,3 +1,5 @@
 name: Guillaume St-Onge
 markdown: kramdown
 permalink: /news/:year/:month/:day/:title
+
+theme: jekyll-theme-minimal
