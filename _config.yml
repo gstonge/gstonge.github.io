@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guillaume St-Onge
+author: Guillaume St-Onge
 email: guillaume.st-onge.4@ulaval.ca
 description: >- # this means to ignore newlines until "baseurl:"
     Personal website to share news, codes and my research contributions.

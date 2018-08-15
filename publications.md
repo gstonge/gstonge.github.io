@@ -25,7 +25,7 @@ P. Desrosiers<br>
 * Geometric evolution of complex networks with degree correlations <br>
 C. Murphy, A. Allard, E. Laurence, **G. St-Onge** and L. J. Dubé <br>
 Phys. Rev. E **97**, 032309 (2018) <br>
-[arXiv.org](https://arxiv.org/abs/1710.01600)
+[arXiv.org](https://arxiv.org/abs/1710.01600)|
 [Journal](https://doi.org/10.1103/PhysRevE.97.032309)
 
 * Phase transition of the susceptible-infected-susceptible dynamics on
