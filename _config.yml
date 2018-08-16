@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guillaume St-Onge
+subtitle: Ph.D. candidate in Physics at Université Laval
 author: Guillaume St-Onge
 email: guillaume.st-onge.4@ulaval.ca
 description: >- # this means to ignore newlines until "baseurl:"
@@ -21,7 +22,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 cover: "/assets/header_image.jpg"
-#logo: "/assets/logo.png"
 
 twitter_username: stonge_g
 github_username: gstonge 
