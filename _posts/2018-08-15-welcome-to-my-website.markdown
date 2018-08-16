@@ -2,6 +2,7 @@
 layout: post
 title:  "Welcome to my website"
 date:   2018-08-15
+category : other
 ---
 
 I finally decided to come around and create a website to share my codes,

@@ -17,17 +17,22 @@ title: Guillaume St-Onge
 author: Guillaume St-Onge
 email: guillaume.st-onge.4@ulaval.ca
 description: >- # this means to ignore newlines until "baseurl:"
-    Personal website to share news, codes and my research contributions.
+    Personal website to share news, some code and my research contributions.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+cover: "/assets/header_image.jpg"
+#logo: "/assets/logo.png"
+
 twitter_username: stonge_g
 github_username: gstonge 
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -40,3 +45,38 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false
+highlightjs_theme: "monokai-sublime"
+
+descriptions:
+  - cat: publication
+    desc: "Posts associated to scientific publications."
+  - cat: conference
+    desc: "Posts associated to scientific conference."
+  - cat: other
+    desc: "Other non-specific posts."
+
+social:
+  - name: Twitter
+    icon: twitter
+    username: stonge_g
+    url: https://twitter.com/stonge_g
+    desc: Follow me on Twitter
+    share: true
+
+  - name: GitHub
+    icon: github
+    username: gstonge
+    url: https://github.com/gstonge
+    desc: See my projects on Github
+    share: false
+
+  - name: Google Scholar
+    icon: graduation-cap
+    username: Guillaume St-Onge
+    url: https://scholar.google.com/citations?user=UwKTgecAAAAJ
+    desc: My publications
+    share: false
