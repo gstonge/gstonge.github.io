@@ -7,6 +7,11 @@ permalink: /publications/
 
 ## Preprints
 
+* Efficient sampling of spreading processes on complex networks using a 
+composition and rejection algorithm <br>
+**G.St-Onge**, J.-G. Yong, Laurent Hébert-Dufresne and L. J. Dubé <br>
+[arXiv.org](http://arxiv.org/abs/1808.05859)
+
 * On the universality of the stochastic block model<br/> 
 J.-G. Young, **G.St-Onge**, P. Desrosiers and L. J. Dubé<br/>
 [arXiv.org](http://arxiv.org/abs/1806.04214)
