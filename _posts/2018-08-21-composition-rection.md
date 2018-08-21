@@ -20,3 +20,6 @@ benchmark below shows its efficiency compared to other algorithms in diverse
 scenarios. 
 
 ![algo-comparison]({{ "/assets/posts/2018-08-21.png" | absolute_url }})
+
+Try our fast algorithm : it is available on [github](https://github.com/gstonge/spreading_CR) 
+, just run pip install and enjoy the speed!
