@@ -188,6 +188,11 @@ pre code.hljs {
     	}
     }
   }
+  li.active-nav {
+  	a {
+  		font-weight: bold;
+  	}
+  }
 }
 
 /*
@@ -339,7 +344,7 @@ pre code.hljs {
 			}
 		}
 		.profile {
-			max-width: 320px;
+			max-width: 230px;
 			margin: auto;
 			padding-bottom: 0.5em;
  		}

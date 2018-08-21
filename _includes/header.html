@@ -6,10 +6,14 @@
     <nav role="navigation">
       <ul id="js-navigation-menu" class="navigation-menu show">
         <li class="nav-link"><a href="/">News</a>  
-        {% for page in site.pages %}
-          {% if page.title and page.main_nav != false and page.title !=
-          "Archive" %}
-          <li class="nav-link"><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% for otherpage in site.pages %}
+          {% if otherpage.title and otherpage.main_nav != false and
+          page.title==otherpage.title and otherpage.title != "Archive"%}
+          <li class="nav-link active-nav"><a href="{{ otherpage.url | prepend: site.baseurl }}">{{ otherpage.title }}</a>
+          {% else %}
+            {% if otherpage.title and otherpage.main_nav != false and otherpage.title != "Archive"%}
+            <li class="nav-link"><a href="{{ otherpage.url | prepend: site.baseurl }}">{{ otherpage.title }}</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </ul>
