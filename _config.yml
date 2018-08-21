@@ -80,3 +80,6 @@ social:
     url: https://scholar.google.com/citations?user=UwKTgecAAAAJ
     desc: My publications
     share: false
+
+#Define excerpt_separator
+excerpt_separator: <!--more-->
