@@ -210,6 +210,13 @@ pre code.hljs {
 		padding-top: 1em !important;
 		@extend %default-ul;
 	}
+	.gray-box {
+		background-color: $light-gray;
+		padding: 8px 8px 8px 8px;
+		border-radius: 2px;
+		font-weight: bold;
+		margin-bottom:20px;
+	}
 	.post-meta {
 		@include outer-container;
 		// padding: 1em 0;
@@ -256,9 +263,21 @@ pre code.hljs {
 		margin: auto;
 		width: 90%;
 	}
-	/*
-	*	Posts
-	*/
+/*
+* About
+*/
+	.table-about {
+		max-width: 400px;
+		i {
+			margin-right: 10px;
+		}
+	}
+	.table-collabs {
+		max-width: none;
+	}
+/*
+*	Posts
+*/
 	.post {
 		ul {
 			margin-bottom: 1em;
@@ -322,9 +341,9 @@ pre code.hljs {
 			}
 		}
 	}
-	/*
-	*	Pages
-	*/
+/*
+*	Pages
+*/
 	.page {
 		.post-header {
 			padding: 0.5em 1em 1em 1em;

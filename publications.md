@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: notitle
 title: Publications
 permalink: /publications/
 ---
@@ -11,10 +11,6 @@ permalink: /publications/
 composition and rejection algorithm </span><br>
 **G.St-Onge**, J.-G. Young, L. Hébert-Dufresne and L. J. Dubé <br>
 [arXiv.org](http://arxiv.org/abs/1808.05859) | [Software](https://github.com/gstonge/spreading_CR)
-
-* <span class="pub-title">On the universality of the stochastic block model</span><br> 
-J.-G. Young, **G.St-Onge**, P. Desrosiers and L. J. Dubé<br>
-[arXiv.org](http://arxiv.org/abs/1806.04214)
 
 * <span class="pub-title">Network archaeology: phase transition in the recoverability of network
 history</span><br> 
@@ -28,6 +24,12 @@ P. Desrosiers<br>
 ## In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Universality of the stochastic block model</span><br>
+J.-G. Young, **G.St-Onge**, P. Desrosiers and L. J. Dubé<br>
+Phys. Rev. E **98**, 032309 (2018) <br>
+[arXiv.org](http://arxiv.org/abs/1806.04214)
+[Journal](https://doi.org/10.1103/PhysRevE.98.032309)
 
 * <span class="pub-title">Geometric evolution of complex networks with degree correlations </span><br>
 C. Murphy, A. Allard, E. Laurence, **G. St-Onge** and L. J. Dubé <br>
