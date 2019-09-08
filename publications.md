@@ -7,10 +7,10 @@ permalink: /publications/
 
 ## Preprints
 
-* <span class="pub-title">Efficient sampling of spreading processes on complex networks using a 
-composition and rejection algorithm </span><br>
-**G.St-Onge**, J.-G. Young, L. Hébert-Dufresne and L. J. Dubé <br>
-[arXiv.org](http://arxiv.org/abs/1808.05859) | [Software](https://github.com/gstonge/spreading_CR)
+* <span class="pub-title">Thresholding normally distributed data creates complex networks</span><br>
+G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder and **G. St-Onge**
+<br>
+[arXiv.org](https://arxiv.org/abs/1902.08278)
 
 * <span class="pub-title">Network archaeology: phase transition in the recoverability of network
 history</span><br> 
@@ -25,24 +25,33 @@ P. Desrosiers<br>
 
 <p>(listed in inverse chronological order)</p>
 
+* <span class="pub-title">Efficient sampling of spreading processes on complex networks using a 
+composition and rejection algorithm </span><br>
+**G.St-Onge**, J.-G. Young, L. Hébert-Dufresne and L. J. Dubé <br>
+Comput. Phys. Commun. **240**, 30-37 (2019) <br>
+[Journal](https://doi.org/10.1016/j.cpc.2019.02.008) |
+[arXiv.org](http://arxiv.org/abs/1808.05859) |
+[Software](https://github.com/gstonge/spreading_CR)
+
+
 * <span class="pub-title">Universality of the stochastic block model</span><br>
 J.-G. Young, **G.St-Onge**, P. Desrosiers and L. J. Dubé<br>
 Phys. Rev. E **98**, 032309 (2018) <br>
+[Journal](https://doi.org/10.1103/PhysRevE.98.032309) |
 [arXiv.org](http://arxiv.org/abs/1806.04214)
-[Journal](https://doi.org/10.1103/PhysRevE.98.032309)
 
 * <span class="pub-title">Geometric evolution of complex networks with degree correlations </span><br>
 C. Murphy, A. Allard, E. Laurence, **G. St-Onge** and L. J. Dubé <br>
 Phys. Rev. E **97**, 032309 (2018) <br>
-[arXiv.org](https://arxiv.org/abs/1710.01600)|
-[Journal](https://doi.org/10.1103/PhysRevE.97.032309)
+[Journal](https://doi.org/10.1103/PhysRevE.97.032309) |
+[arXiv.org](https://arxiv.org/abs/1710.01600)
 
 * <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on
 time-varying configuration model networks</span><br> 
 **G. St-Onge**, J.-G.Young, E. Laurence, C. Murphy and L. J. Dubé<br> 
 Phys. Rev. E **97**,022305 (2018)<br> 
-[arXiv.org](https://arxiv.org/abs/1709.09257) |
 [Journal](https://doi.org/10.1103/PhysRevE.97.022305) |
+[arXiv.org](https://arxiv.org/abs/1709.09257) |
 [Short note](https://arxiv.org/abs/1701.01740)
 
 * <span class="pub-title">Exact vectorial model for nonparaxial focusing by arbitrary axisymmetric
