@@ -17,8 +17,10 @@ title: Guillaume St-Onge
 subtitle: Ph.D. candidate in Physics at Université Laval
 author: Guillaume St-Onge
 email: guillaume.st-onge.4@ulaval.ca
-description: >- # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
     Personal website to share news, some code and my research contributions.
+footer_text: >
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>. Based on <a href="https://github.com/bencentra/centrarium">Centrarium</a> theme.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 cover: "/assets/header_image.jpg"

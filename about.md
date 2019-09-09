@@ -21,7 +21,7 @@ food (eating mostly), good liquor, wine, beer and *coffee*.
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
   <tr>
-    <th>Collaborators</th><th></th>
+    <th>Main collaborators</th><th></th>
   </tr>
    <tr>
     <td><a href="https://www.dynamica.phy.ulaval.ca/index.php?id=contact">Louis J. Dubé</a></td><td>Université Laval</td>
