@@ -9,14 +9,20 @@ Picture" class="profile">
 
 I am a Ph.D. candidate in theoretical physics at [Université Laval](https://www.ulaval.ca/), Qc, Canada. I am working under the
 supervision of Prof. Dr. [Louis J.Dubé](https://www.dynamica.phy.ulaval.ca/index.php?id=contact) and Dr. [Laurent Hébert-Dufresne](http://laurenthebertdufresne.github.io/).
- A selection of my academic interests would include stochastic processes, critical phenomena, complex networks, Bayesian statistics and efficient computational methods. I am interested in complex systems in general, in understanding how they shape our lives, and how we can aspire to decipher them. I love sound mathematical arguments, but that being said, I am not afraid of crude approximations if that allows for clarity and insights.
 
-My main research goal is to better understand **spreading processes on complex networks**. I favor simple models that are analytically tractable, upon which we can develop insights and eventually, a deep understanding of the system. One phenomenon I am actively studying is that of *localization*--the process survives almost exclusively in a subpart of the network. Random graph models, statistical inference, and the general study of dynamics on networks are also among my current research interests.
+ A selection of my academic interests would include stochastic processes, critical phenomena, complex networks, Bayesian statistics and computation. I am interested in complex systems in general, in understanding how they shape our lives, and how we can aspire to decipher them. I love sound mathematical arguments, but that being said, I am not afraid of crude approximations if that allows for clarity and insights.
 
-In my free time, I enjoy climbing, training, and any sports or outdoor activities in general. I love
-food (eating mostly), good liquor, wine, beer and *coffee*.
+My doctoral research is mainly about developping analytical and computational methods to study **binary-state stochastic processes on complex networks**. Random graph models, statistical inference, and the general study of dynamics on networks are also among my current research interests.
 
-<b class="gray-box"><a href="/assets/resume/St-Onge_CV_EN_2018.pdf">Resume (Updated December, 2018)</a></b>
+I am **currently in Burlington** as a visiting graduate student at the University
+of Vermont, in Laurent's research group. Come by and say hi!
+
+In my free time, I enjoy climbing, training, hiking. I love
+anything that is edible (including alcohol) and enjoy the delicate aroma of
+cigars.
+
+
+<b class="gray-box"><a href="/assets/resume/St-Onge_CV_EN_2019.pdf">Resume (Updated September, 2019)</a></b>
 
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
