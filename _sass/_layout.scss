@@ -481,14 +481,14 @@ pre code.hljs {
 .project {
     box-sizing: border-box;
     float: left;
-    height: 250px;
+    height: 400px;
     padding: 10px;
     vertical-align: middle;
-    width: 33.33%;
+    width: 50%;
 
     .thumbnail {
         overflow: hidden;
-        height: 200px;
+        height: 400px;
         width: 100%;
 
         img {
@@ -501,7 +501,7 @@ pre code.hljs {
 
         a {
             float: left;
-            height: 230px;
+            height: 320px;
             position: relative;
             width: 100%;
 
