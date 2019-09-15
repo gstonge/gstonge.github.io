@@ -5,7 +5,7 @@ description: Python and C++ sets that can be sampled.
 img: /assets/projects/samplable-set.png
 ---
 
-<img src="/assets/projects/samplable-set.png" alt="samplable-set-logo" width="50"/>
+<img src="{{ site.baseurl }}/assets/projects/samplable-set.png" alt="samplable-set-logo" class="logo"/>
 
 This project is about an efficient implementation of sets that can be randomly sampled according to the weights of the elements. Insertion, erase and sample of elements are constant time in average-case for all practical purposes. It makes use of the [pybind11](https://github.com/pybind/pybind11) project to bind C++ objects to python.
 
