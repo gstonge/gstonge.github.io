@@ -480,11 +480,11 @@ pre code.hljs {
 
 .project {
     box-sizing: border-box;
-    float: left;
     height: 380px;
     padding: 10px;
     vertical-align: middle;
     width: 400px;
+    margin:auto;
 
     .thumbnail {
         overflow: hidden;
