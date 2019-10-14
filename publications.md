@@ -7,6 +7,12 @@ permalink: /publications/
 
 ## Preprints
 
+* <span class="pub-title">Recovering the past states of growing trees</span><br>
+G. T. Cantwell, **G. St-Onge** and J.-G. Young
+<br>
+[arXiv.org](https://arxiv.org/abs/1910.04788)|
+[Software](https://github.com/gcant/temporal-recovery-tree-py)
+
 * <span class="pub-title">Thresholding normally distributed data creates complex networks</span><br>
 G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder and **G. St-Onge**
 <br>
