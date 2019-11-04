@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Moved to Burlington for an intership at UVM"
+title:  "Moved to Burlington for an internship at UVM"
 date:   2019-09-01
 category : other
 ---
