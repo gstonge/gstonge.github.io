@@ -22,7 +22,7 @@ anything that is edible (including alcohol) and enjoy the delicate aroma of
 cigars.
 
 
-<b class="gray-box"><a href="/assets/resume/St-Onge_CV_EN_2019.pdf">Resume (Updated September, 2019)</a></b>
+<b class="gray-box"><a href="/assets/resume/St-Onge_CV_EN.pdf">Resume (Updated September, 2019)</a></b>
 
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
