@@ -7,6 +7,12 @@ permalink: /publications/
 
 ## Preprints
 
+* <span class="pub-title">School closures, event cancellations, and the mesoscopic localization of epidemics in networks with higher-order structure</span><br>
+**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, L. Hébert-Dufresne
+<br>
+[arXiv.org](https://arxiv.org/abs/2003.05924)
+
+
 * <span class="pub-title">Recovering the past states of growing trees</span><br>
 G. T. Cantwell, **G. St-Onge** and J.-G. Young
 <br>
@@ -17,7 +23,6 @@ G. T. Cantwell, **G. St-Onge** and J.-G. Young
 G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder and **G. St-Onge**
 <br>
 [arXiv.org](https://arxiv.org/abs/1902.08278)
-
 
 
 
