@@ -18,18 +18,20 @@ G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder an
 <br>
 [arXiv.org](https://arxiv.org/abs/1902.08278)
 
-* <span class="pub-title">Network archaeology: phase transition in the recoverability of network
-history</span><br> 
-J.-G. Young, L. Hébert-Dufresne, E. Laurence, C. Murphy, **G.St-Onge** and 
-P. Desrosiers<br> 
-[arXiv.org](https://arxiv.org/abs/1803.09191)|
-[Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)|
-[Software](https://github.com/jg-you/network-archaeology)
+
 
 
 ## In Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Phase Transition in the Recoverability of Network History</span><br>
+J.-G. Young, **G.St-Onge**, E. Laurence, C. Murphy, and P. Desrosiers<br>
+Phys. Rev. X **9**, 041056 (2019) <br>
+[Journal](https://doi.org/10.1103/PhysRevX.9.041056)|
+[arXiv.org](https://arxiv.org/abs/1803.09191)|
+[Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)|
+[Software](https://github.com/jg-you/network-archaeology)
 
 * <span class="pub-title">Efficient sampling of spreading processes on complex networks using a 
 composition and rejection algorithm </span><br>
