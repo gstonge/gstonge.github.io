@@ -7,8 +7,14 @@ permalink: /publications/
 
 ## Preprints
 
-* <span class="pub-title">School closures, event cancellations, and the mesoscopic localization of epidemics in networks with higher-order structure</span><br>
-**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, L. Hébert-Dufresne
+* <span class="pub-title">Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks</span><br>
+**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé and L. Hébert-Dufresne
+<br>
+[arXiv.org](https://arxiv.org/abs/2004.10203)
+
+
+* <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
+**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé and L. Hébert-Dufresne
 <br>
 [arXiv.org](https://arxiv.org/abs/2003.05924)
 
