@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Officially a Phd candidate"
+title:  "Officially a PhD candidate"
 date:   2019-04-20
 category : other
 ---
