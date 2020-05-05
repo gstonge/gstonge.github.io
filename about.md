@@ -17,12 +17,10 @@ of Vermont, in Laurent's research group. Come by and say hi!
 
 My doctoral research is mainly about developping analytical and computational methods to study **binary-state stochastic processes on complex networks**. Random graph models, statistical inference, and the general study of dynamics on networks are also among my current research interests.
 
-In my free time, I enjoy climbing, training, hiking. I love
-anything that is edible (including alcohol) and enjoy the delicate aroma of
-cigars.
+In my free time, I enjoy climbing, training, hiking.
 
 
-<b class="gray-box"><a href="/assets/resume/St-Onge_CV_EN.pdf">Resume (Updated November, 2019)</a></b>
+<b class="gray-box"><a href="/assets/resume/St-Onge_CV_EN.pdf">Resume (Updated April, 2020)</a></b>
 
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
