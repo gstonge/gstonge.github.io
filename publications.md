@@ -25,16 +25,16 @@ G. T. Cantwell, **G. St-Onge** and J.-G. Young
 [arXiv.org](https://arxiv.org/abs/1910.04788)|
 [Software](https://github.com/gcant/temporal-recovery-tree-py)
 
+
+## Published or Accepted in Peer-Reviewed Journals
+
+<p>(listed in inverse chronological order)</p>
+
 * <span class="pub-title">Thresholding normally distributed data creates complex networks</span><br>
 G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder and **G. St-Onge**
 <br>
+[Journal](https://journals.aps.org/pre/accepted/1707eR86Pb51cf11d9038e56f3e5beb62d9c84f47)|
 [arXiv.org](https://arxiv.org/abs/1902.08278)
-
-
-
-## In Peer-Reviewed Journals
-
-<p>(listed in inverse chronological order)</p>
 
 * <span class="pub-title">Phase Transition in the Recoverability of Network History</span><br>
 J.-G. Young, **G.St-Onge**, E. Laurence, C. Murphy, and P. Desrosiers<br>
