@@ -31,9 +31,8 @@ G. T. Cantwell, **G. St-Onge** and J.-G. Young
 <p>(listed in inverse chronological order)</p>
 
 * <span class="pub-title">Thresholding normally distributed data creates complex networks</span><br>
-G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder and **G. St-Onge**
+G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder and **G. St-Onge** <br>
 Accepted at Phys. Rev. E (2020) <br>
-<br>
 [Journal](https://journals.aps.org/pre/accepted/1707eR86Pb51cf11d9038e56f3e5beb62d9c84f47)|
 [arXiv.org](https://arxiv.org/abs/1902.08278)
 
