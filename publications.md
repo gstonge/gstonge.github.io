@@ -18,6 +18,10 @@ permalink: /publications/
 <br>
 [arXiv.org](https://arxiv.org/abs/2003.05924)
 
+* <span class="pub-title">Threefold way to the dimension reduction of dynamics on networks: an application to synchronization</span><br>
+ V. Thibeault, **G. St-Onge**, L. J. Dubé and P. Desrosiers
+<br>
+[arXiv.org](https://arxiv.org/abs/2005.10922)
 
 * <span class="pub-title">Recovering the past states of growing trees</span><br>
 G. T. Cantwell, **G. St-Onge** and J.-G. Young
