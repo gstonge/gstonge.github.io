@@ -17,11 +17,6 @@ E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault
 <br>
 [arXiv.org](https://arxiv.org/abs/2006.05232)
 
-* <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
-**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne
-<br>
-[arXiv.org](https://arxiv.org/abs/2003.05924)
-
 * <span class="pub-title">Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne
 <br>
