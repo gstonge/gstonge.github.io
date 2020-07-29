@@ -1,8 +1,8 @@
 ---
 layout: notitle
-title: Projects
+title: Software
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of your projects.
 ---
 
 {% for project in site.projects %}
