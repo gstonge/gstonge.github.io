@@ -8,12 +8,9 @@ permalink: /about/
 Picture" class="profile">
 
 I am a Ph.D. candidate in theoretical physics at [Université Laval](https://www.ulaval.ca/), Qc, Canada. I am working under the
-supervision of Prof. Dr. [Louis J.Dubé](https://www.dynamica.phy.ulaval.ca/index.php?id=contact) and Dr. [Laurent Hébert-Dufresne](http://laurenthebertdufresne.github.io/).
-I am **currently in Burlington** as a visiting graduate student at the University
-of Vermont, in Laurent's research group. Come by and say hi!
+supervision of Prof. [Antoine Allard](https://antoineallard.github.io/) and Prof. [Laurent Hébert-Dufresne](http://laurenthebertdufresne.github.io/).
 
-
- A selection of my academic interests would include stochastic processes, critical phenomena, complex networks, Bayesian statistics and computation. I am interested in complex systems in general, in understanding how they shape our lives, and how we can aspire to decipher them. I love sound mathematical arguments, but that being said, I am not afraid of crude approximations if that allows for clarity and insights.
+ A selection of my academic interests would include stochastic processes, critical phenomena, complex networks, Bayesian statistics and computation. I am interested in complex systems in general, in understanding how they shape our lives, and how we can aspire to decipher them.
 
 My doctoral research is mainly about developping analytical and computational methods to study **binary-state stochastic processes on complex networks**. Random graph models, statistical inference, and the general study of dynamics on networks are also among my current research interests.
 
