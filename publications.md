@@ -7,6 +7,12 @@ permalink: /publications/
 
 ## Preprints
 
+* <span class="pub-title">Network comparison and the within-ensemble graph distance</span><br>
+H. Hartle, B. Klein, S. McCabe, A. Daniels, **G. St-Onge**, C. Murphy, and L. Hébert-Dufresne
+<br>
+[arXiv.org](https://arxiv.org/abs/2008.02415)
+
+
 * <span class="pub-title">Emergence of multistrain epidemics with an underlying genotype network</span><br>
 B. Williams, **G. St-Onge**, and L. Hébert-Dufresne
 <br>
@@ -17,21 +23,21 @@ E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault
 <br>
 [arXiv.org](https://arxiv.org/abs/2006.05232)
 
+* <span class="pub-title">Threefold way to the dimension reduction of dynamics on networks: an application to synchronization</span><br>
+ V. Thibeault, **G. St-Onge**, L. J. Dubé, and P. Desrosiers
+<br>
+[arXiv.org](https://arxiv.org/abs/2005.10922)
+
 * <span class="pub-title">Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne
 <br>
 [arXiv.org](https://arxiv.org/abs/2004.10203)
-
 
 * <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne
 <br>
 [arXiv.org](https://arxiv.org/abs/2003.05924)
 
-* <span class="pub-title">Threefold way to the dimension reduction of dynamics on networks: an application to synchronization</span><br>
- V. Thibeault, **G. St-Onge**, L. J. Dubé, and P. Desrosiers
-<br>
-[arXiv.org](https://arxiv.org/abs/2005.10922)
 
 * <span class="pub-title">Recovering the past states of growing trees</span><br>
 G. T. Cantwell, **G. St-Onge**, and J.-G. Young
