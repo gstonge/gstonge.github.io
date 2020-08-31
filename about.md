@@ -37,7 +37,7 @@ In my free time, I enjoy climbing, training, hiking.
     <td><a href="https://scholar.google.ca/citations?user=YAqE0O0AAAAJ&hl=fr">Patrick Desrosiers</a></td><td>Université Laval</td>
   </tr>
    <tr>
-    <td><a href="http://www.jgyoung.ca">Jean-Gabriel Young</a></td><td>University of Michigan</td>
+    <td><a href="http://www.jgyoung.ca">Jean-Gabriel Young</a></td><td>University of Vermont</td>
   </tr>
    <tr>
     <td><a href="http://edwardlaurence.me">Edward Laurence</a></td><td>Université Laval</td>
