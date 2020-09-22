@@ -17,7 +17,7 @@ My doctoral research is mainly about developping analytical and computational me
 In my free time, I enjoy climbing, training, hiking.
 
 
-<b class="gray-box"><a href="/assets/resume/St-Onge_CV_EN.pdf">Resume (Updated September 2020)</a></b>
+<b class="gray-box"><a href="/assets/resume/st-onge_cc_en.pdf">Resume (Updated September 2020)</a></b>
 
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
