@@ -25,7 +25,7 @@ In my free time, I enjoy climbing, training, hiking.
     <th>Main collaborators</th><th></th>
   </tr>
    <tr>
-    <td><a href="https://www.dynamica.phy.ulaval.ca/index.php?id=contact">Louis J. Dubé</a></td><td>Université Laval</td>
+    <td><a>Louis J. Dubé</a></td><td>Université Laval</td>
   </tr>
    <tr>
     <td><a href="http://laurenthebertdufresne.github.io">Laurent Hébert-Dufresne</a></td><td>University of Vermont</td>
