@@ -48,7 +48,8 @@ Accepted at Phys. Rev. R (2020) <br>
 
 * <span class="pub-title">Network comparison and the within-ensemble graph distance</span><br>
 H. Hartle, B. Klein, S. McCabe, A. Daniels, **G. St-Onge**, C. Murphy, and L. Hébert-Dufresne <br>
-Accepted at Proc. Math. Phys. Eng. Sci (2020) <br>
+Proc. Math. Phys. Eng. Sci **476**, 20190744 (2020) <br>
+[Journal](https://doi.org/10.1098/rspa.2019.0744)|
 [arXiv.org](https://arxiv.org/abs/2008.02415)
 
 * <span class="pub-title">Thresholding normally distributed data creates complex networks</span><br>
