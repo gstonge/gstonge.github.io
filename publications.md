@@ -8,12 +8,6 @@ permalink: /publications/
 ## Preprints
 
 
-
-* <span class="pub-title">Emergence of multistrain epidemics with an underlying genotype network</span><br>
-B. Williams, **G. St-Onge**, and L. Hébert-Dufresne
-<br>
-[arXiv.org](https://arxiv.org/abs/2007.07429)
-
 * <span class="pub-title">Detecting structural perturbations from time series with deep learning</span><br>
 E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault
 <br>
@@ -40,6 +34,11 @@ G. T. Cantwell, **G. St-Onge**, and J.-G. Young
 ## Published or Accepted in Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network</span><br>
+B. Williams, **G. St-Onge**, and L. Hébert-Dufresne <br>
+Accepted at PLOS Comput. Biol. (2020) <br>
+[arXiv.org](https://arxiv.org/abs/2007.07429)
 
 * <span class="pub-title">Threefold way to the dimension reduction of dynamics on networks: an application to synchronization</span><br>
  V. Thibeault, **G. St-Onge**, L. J. Dubé, and P. Desrosiers <br>
