@@ -13,27 +13,29 @@ E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault
 <br>
 [arXiv.org](https://arxiv.org/abs/2006.05232)
 
-* <span class="pub-title">Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks</span><br>
-**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne
-<br>
-[arXiv.org](https://arxiv.org/abs/2004.10203)
-
-* <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
-**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne
-<br>
-[arXiv.org](https://arxiv.org/abs/2003.05924)
-
-
-* <span class="pub-title">Recovering the past states of growing trees</span><br>
-G. T. Cantwell, **G. St-Onge**, and J.-G. Young
-<br>
-[arXiv.org](https://arxiv.org/abs/1910.04788)|
-[Software](https://github.com/gcant/temporal-recovery-tree-py)
-
-
 ## Published or Accepted in Peer-Reviewed Journals
 
 <p>(listed in inverse chronological order)</p>
+
+* <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
+**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne <br>
+Accepted at Phys. Rev. Lett. (2021)
+[arXiv.org](https://arxiv.org/abs/2003.05924)
+
+
+* <span class="pub-title">Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks</span><br>
+**G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne <br>
+Accepted at Phys. Rev. E (2021) <br>
+[arXiv.org](https://arxiv.org/abs/2004.10203)
+
+
+* <span class="pub-title"></span><br>
+G. T. Cantwell, **G. St-Onge**, and J.-G. Young <br>
+Phys. Rev. Lett. **126**, 038301 (2021) <br>
+[Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.038301)|
+[arXiv.org](https://arxiv.org/abs/1910.04788)|
+[Software](https://github.com/gcant/temporal-recovery-tree-py)
+
 
 * <span class="pub-title">Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network</span><br>
 B. Williams, **G. St-Onge**, and L. Hébert-Dufresne <br>
