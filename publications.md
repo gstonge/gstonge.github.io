@@ -6,7 +6,9 @@ permalink: /publications/
 
 
 ## Preprints
-
+* <span class="pub-title">Bursty exposure on higher-order networks leads to nonlinear infection kernels</span><br>
+**G. St-Onge**, H. Sun, A. Allard, L. Hébert-Dufresne, and G. Bianconi <br>
+[arXiv.org](https://arxiv.org/abs/2101.07229)
 
 * <span class="pub-title">Detecting structural perturbations from time series with deep learning</span><br>
 E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault <br>
