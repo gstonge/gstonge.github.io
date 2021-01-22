@@ -9,8 +9,7 @@ permalink: /publications/
 
 
 * <span class="pub-title">Detecting structural perturbations from time series with deep learning</span><br>
-E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault
-<br>
+E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault <br>
 [arXiv.org](https://arxiv.org/abs/2006.05232)
 
 ## Published or Accepted in Peer-Reviewed Journals
@@ -19,7 +18,7 @@ E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault
 
 * <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne <br>
-Accepted at Phys. Rev. Lett. (2021)
+Accepted at Phys. Rev. Lett. (2021) <br>
 [arXiv.org](https://arxiv.org/abs/2003.05924)
 
 
