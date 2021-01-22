@@ -29,7 +29,7 @@ Accepted at Phys. Rev. E (2021) <br>
 [arXiv.org](https://arxiv.org/abs/2004.10203)
 
 
-* <span class="pub-title"></span><br>
+* <span class="pub-title">Inference, Model Selection, and the Combinatorics of Growing Trees</span><br>
 G. T. Cantwell, **G. St-Onge**, and J.-G. Young <br>
 Phys. Rev. Lett. **126**, 038301 (2021) <br>
 [Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.038301)|
