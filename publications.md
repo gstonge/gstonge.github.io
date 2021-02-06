@@ -45,7 +45,7 @@ Accepted at PLOS Comput. Biol. (2020) <br>
 
 * <span class="pub-title">Threefold way to the dimension reduction of dynamics on networks: an application to synchronization</span><br>
  V. Thibeault, **G. St-Onge**, L. J. Dubé, and P. Desrosiers <br>
-Phys. Rev. Research **2**, 043215 (2020) <br>
+Phys. Rev. Res. **2**, 043215 (2020) <br>
 [Journal](https://doi.org/10.1103/PhysRevResearch.2.043215)|
 [arXiv.org](https://arxiv.org/abs/2005.10922)
 
