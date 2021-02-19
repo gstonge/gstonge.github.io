@@ -74,10 +74,10 @@ pre code.hljs {
 	text-align: center;
 	&.has-cover {
 		color: $white;
-		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
 		background-size: cover;
 		.title {
+            font-family: $heading-font-family;
 			font-size: modular-scale(6);
 		}
 		.subtitle, .info {
@@ -85,12 +85,11 @@ pre code.hljs {
 		}
 	}
 	.scrim {
-		padding: 3em 1em;
+        padding: 3em 1em;
 		&.has-cover {
-			background-color: rgba(0,0,0,0.2);
-			padding: 6em 1em !important;
+            //padding: 6em 1em !important;
 			@include media($tablet) {
-				padding: 9em 1em !important;
+				//padding: 9em 1em !important;
 			}
 		}
 	}
@@ -246,14 +245,16 @@ pre code.hljs {
 	}
 	.site-header-container {
 		color: $white;
-		text-shadow: 0 2px 1px rgba(0,0,0,0.33);
-		background-color: $highlight-color;
+		background-color: $action-color;
 		.site-header{
+            text-align: left;
 			.title {
-				font-size: modular-scale(6);
+                font-family: $base-font-family;
+                padding-left:50px;
+				font-size: modular-scale(4);
 			}
 			.subtitle {
-				font-style: italic;
+                padding-left:50px;
 				font-size: modular-scale(1);
 			}
 		}
@@ -386,7 +387,7 @@ pre code.hljs {
 .site-footer {
 	$link-color: $white;
 	padding: 1em 1em 2em 1em;
-	background-color: $highlight-color;
+	background-color: $action-color;
 	color: $white;
 	a {
 	  color: $link-color;
