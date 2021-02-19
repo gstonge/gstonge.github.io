@@ -117,4 +117,4 @@ transition de phase <br>
 (Propagation dynamics on random networks : characterization of the phase
 transition)<br>
 M.Sc. Thesis, Université Laval (2017)<br>
-[Full text](https://www.dynamica.phy.ulaval.ca/fileadmin/theses/St-Onge17_master.pdf)
+[Full text](https://dynamicalab.github.io/assets/pdf/theses/St-Onge17_master.pdf)
