@@ -20,14 +20,14 @@ E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault <br>
 
 * <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne <br>
-Accepted at Phys. Rev. Lett. (2021) <br>
-[arXiv.org](https://arxiv.org/abs/2003.05924)
+Phys. Rev. Lett. **126**, 098301 (2021) <br>
+[Journal](https://doi.org/10.1103/PhysRevLett.126.098301)|[arXiv.org](https://arxiv.org/abs/2003.05924)
 
 
 * <span class="pub-title">Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne <br>
-Accepted at Phys. Rev. E (2021) <br>
-[arXiv.org](https://arxiv.org/abs/2004.10203)
+Phys. Rev. E **103**, 032301 (2021) <br>
+[Journal](https://doi.org/10.1103/PhysRevE.103.032301)|[arXiv.org](https://arxiv.org/abs/2004.10203)
 
 
 * <span class="pub-title">Inference, Model Selection, and the Combinatorics of Growing Trees</span><br>

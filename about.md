@@ -12,12 +12,12 @@ supervision of Prof. [Antoine Allard](https://antoineallard.github.io/) and Prof
 
  A selection of my academic interests would include stochastic processes, critical phenomena, complex networks, Bayesian statistics and computation. I am interested in complex systems in general, in understanding how they shape our lives, and how we can aspire to decipher them.
 
-My doctoral research is mainly about developping analytical and computational methods to study **binary-state stochastic processes on complex networks**. Random graph models, statistical inference, and the general study of dynamics on networks are also among my current research interests.
+My doctoral research is mainly about developping analytical and computational methods to study **binary-state contagion processes on complex networks**. Random graph models, statistical inference, and the general study of dynamics on networks are also among my current research interests.
 
-In my free time, I enjoy climbing, training, hiking.
+I enjoy climbing, training, hiking, cooking, beer, whisky and coffee.
 
 
-<b class="gray-box"><a href="/assets/resume/st-onge_cv_en.pdf">Resume (Updated November 2020)</a></b>
+<b class="gray-box"><a href="/assets/resume/st-onge_cv_en.pdf">Resume (Updated March 2021)</a></b>
 
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
