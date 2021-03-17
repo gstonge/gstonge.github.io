@@ -17,15 +17,13 @@ My doctoral research is mainly about developping analytical and computational me
 I enjoy climbing, training, hiking, cooking, beer, whisky and coffee.
 
 
-<b class="gray-box"><a href="/assets/resume/st-onge_cv_en.pdf">Resume (Updated March 2021)</a></b>
+<b class="gray-box"><a href="/assets/resume/st-onge_cv_en.pdf">Resume EN (Updated March 2021)</a></b>
+<b class="gray-box"><a href="/assets/resume/st-onge_cv_fr.pdf">Resume FR (Updated March 2021)</a></b>
 
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
   <tr>
     <th>Main collaborators</th><th></th>
-  </tr>
-   <tr>
-    <td><a>Louis J. Dubé</a></td><td>Université Laval</td>
   </tr>
    <tr>
     <td><a href="http://laurenthebertdufresne.github.io">Laurent Hébert-Dufresne</a></td><td>University of Vermont</td>
@@ -42,5 +40,15 @@ I enjoy climbing, training, hiking, cooking, beer, whisky and coffee.
    <tr>
     <td><a href="http://edwardlaurence.me">Edward Laurence</a></td><td>Université Laval</td>
   </tr>
+   <tr>
+    <td><a href="https://scholar.google.fr/citations?user=xgBmSD8AAAAJ&hl=fr">Charles Murphy</a></td><td>Université Laval</td>
+  </tr>
+   <tr>
+    <td><a href="https://scholar.google.fr/citations?user=jHEI8xcAAAAJ&hl=fr">Vincent Thibeault</a></td><td>Université Laval</td>
+  </tr>
+   <tr>
+    <td><a href="https://www.george-cantwell.com/">George Cantwell</a></td><td>Santa Fe institute</td>
+  </tr>
+
 </table>
 <br>
