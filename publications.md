@@ -21,53 +21,55 @@ E. Laurence, C. Murphy, **G. St-Onge**, X. Roy-Pomerleau, and V. Thibeault <br>
 * <span class="pub-title">Social confinement and mesoscopic localization of epidemics on networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne <br>
 Phys. Rev. Lett. **126**, 098301 (2021) <br>
-[Journal](https://doi.org/10.1103/PhysRevLett.126.098301)|[arXiv.org](https://arxiv.org/abs/2003.05924)
+[Journal](https://doi.org/10.1103/PhysRevLett.126.098301) |
+[arXiv.org](https://arxiv.org/abs/2003.05924)
 
 
 * <span class="pub-title">Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks</span><br>
 **G. St-Onge**, V. Thibeault, A. Allard, L. J. Dubé, and L. Hébert-Dufresne <br>
 Phys. Rev. E **103**, 032301 (2021) <br>
-[Journal](https://doi.org/10.1103/PhysRevE.103.032301)|[arXiv.org](https://arxiv.org/abs/2004.10203)
+[Journal](https://doi.org/10.1103/PhysRevE.103.032301) |
+[arXiv.org](https://arxiv.org/abs/2004.10203)
 
 
 * <span class="pub-title">Inference, Model Selection, and the Combinatorics of Growing Trees</span><br>
 G. T. Cantwell, **G. St-Onge**, and J.-G. Young <br>
 Phys. Rev. Lett. **126**, 038301 (2021) <br>
-[Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.038301)|
-[arXiv.org](https://arxiv.org/abs/1910.04788)|
+[Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.038301) |
+[arXiv.org](https://arxiv.org/abs/1910.04788) |
 [Software](https://github.com/gcant/temporal-recovery-tree-py)
 
 
 * <span class="pub-title">Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network</span><br>
 B. Williams, **G. St-Onge**, and L. Hébert-Dufresne <br>
 PLOS Comput. Biol. **17**, e1008606 (2021) <br>
-[Journal](https://doi.org/10.1371/journal.pcbi.1008606)|
+[Journal](https://doi.org/10.1371/journal.pcbi.1008606) |
 [arXiv.org](https://arxiv.org/abs/2007.07429)
 
 * <span class="pub-title">Threefold way to the dimension reduction of dynamics on networks: an application to synchronization</span><br>
  V. Thibeault, **G. St-Onge**, L. J. Dubé, and P. Desrosiers <br>
 Phys. Rev. Research **2**, 043215 (2020) <br>
-[Journal](https://doi.org/10.1103/PhysRevResearch.2.043215)|
+[Journal](https://doi.org/10.1103/PhysRevResearch.2.043215) |
 [arXiv.org](https://arxiv.org/abs/2005.10922)
 
 * <span class="pub-title">Network comparison and the within-ensemble graph distance</span><br>
 H. Hartle, B. Klein, S. McCabe, A. Daniels, **G. St-Onge**, C. Murphy, and L. Hébert-Dufresne <br>
 Proc. Math. Phys. Eng. Sci **476**, 20190744 (2020) <br>
-[Journal](https://doi.org/10.1098/rspa.2019.0744)|
+[Journal](https://doi.org/10.1098/rspa.2019.0744) |
 [arXiv.org](https://arxiv.org/abs/2008.02415)
 
 * <span class="pub-title">Thresholding normally distributed data creates complex networks</span><br>
 G. T. Cantwell, Y. Liu, B. F. Maier, A. C. Schwarze, C. A. Serván, J. Snyder, and **G. St-Onge** <br>
 Phys. Rev. E **101**, 062302 (2020) <br>
-[Journal](https://doi.org/10.1103/PhysRevE.101.062302)|
+[Journal](https://doi.org/10.1103/PhysRevE.101.062302) |
 [arXiv.org](https://arxiv.org/abs/1902.08278)
 
 * <span class="pub-title">Phase Transition in the Recoverability of Network History</span><br>
 J.-G. Young, **G.St-Onge**, E. Laurence, C. Murphy, and P. Desrosiers<br>
 Phys. Rev. X **9**, 041056 (2019) <br>
-[Journal](https://doi.org/10.1103/PhysRevX.9.041056)|
-[arXiv.org](https://arxiv.org/abs/1803.09191)|
-[Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history)|
+[Journal](https://doi.org/10.1103/PhysRevX.9.041056) |
+[arXiv.org](https://arxiv.org/abs/1803.09191) |
+[Slides](https://speakerdeck.com/jgyou/network-archaeology-phase-transition-in-the-recoverability-of-network-history) |
 [Software](https://github.com/jg-you/network-archaeology)
 
 * <span class="pub-title">Efficient sampling of spreading processes on complex networks using a 
@@ -91,8 +93,7 @@ Phys. Rev. E **97**, 032309 (2018) <br>
 [Journal](https://doi.org/10.1103/PhysRevE.97.032309) |
 [arXiv.org](https://arxiv.org/abs/1710.01600)
 
-* <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on
-time-varying configuration model networks</span><br> 
+* <span class="pub-title">Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks</span><br> 
 **G. St-Onge**, J.-G.Young, E. Laurence, C. Murphy, and L. J. Dubé<br> 
 Phys. Rev. E **97**,022305 (2018)<br> 
 [Journal](https://doi.org/10.1103/PhysRevE.97.022305) |
