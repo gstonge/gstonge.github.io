@@ -41,6 +41,7 @@ Phys. Rev. Lett. **126**, 038301 (2021) <br>
 * <span class="pub-title">Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network</span><br>
 B. Williams, **G. St-Onge**, and L. Hébert-Dufresne <br>
 PLOS Comput. Biol. **17**, e1008606 (2021) <br>
+[Journal](https://doi.org/10.1371/journal.pcbi.1008606)|
 [arXiv.org](https://arxiv.org/abs/2007.07429)
 
 * <span class="pub-title">Threefold way to the dimension reduction of dynamics on networks: an application to synchronization</span><br>
