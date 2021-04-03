@@ -17,8 +17,8 @@ My doctoral research is mainly about developping analytical and computational me
 I enjoy climbing, training, hiking, cooking, beer, whisky and coffee.
 
 
-<b class="gray-box"><a href="/assets/resume/st-onge_cv_en.pdf">Resume EN (Updated March 2021)</a></b><br><br>
-<b class="gray-box"><a href="/assets/resume/st-onge_cv_fr.pdf">Resume FR (Updated March 2021)</a></b>
+<b class="gray-box"><a href="/assets/resume/st-onge_cv_en.pdf">Resume EN (Updated April 2021)</a></b><br><br>
+<b class="gray-box"><a href="/assets/resume/st-onge_cv_fr.pdf">Resume FR (Updated April 2021)</a></b>
 
 <br>
 <table cellspacing="0" cellpadding="0" class="table-about table-collabs">
