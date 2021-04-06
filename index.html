@@ -21,37 +21,29 @@ layout: default
                 <div class="section-inner shadow-sm rounded">
                     <h2 class="heading">Latest Publications</h2>
                     <div class="content">
-                        {% assign publis = site.data.publications.preprints | concat: site.data.publications.articles %}
+                        {% for headline in site.data.headline.headline %}
                         <div class="item featured text-center">
-                            {% for publi in publis %}
-                                {% if publi.headline %}
-                                    <div class="featured-image has-ribbon">
-                                      <a href="{{publi.url}}" target="_blank"><img class="img-fluid project-image rounded shadow-sm"
-                                        src="{{publi.image}}" alt="{{publi.title}}" /></a>
-                                        <div class="ribbon">
-                                            <div class="text">New</div>
-                                        </div>
-                                    </div>
-
-                                    <h3 class="title mb-3"><a href="{{publi.url}}" target="_blank">{{publi.title}}</a></h3>
-                                {% endif %}
-                            {% endfor %}
+                            <div class="featured-image has-ribbon">
+                              <a href="{{headline.url}}" target="_blank"><img class="img-fluid project-image rounded shadow-sm"
+                                src="{{headline.image}}" alt="{{headline.title}}" /></a>
+                                <div class="ribbon">
+                                    <div class="text">New</div>
+                                </div>
+                            </div>
+                            <h3 class="title mb-3"><a href="{{headline.url}}" target="_blank">{{headline.title}}</a></h3>
                         </div><!--//item-->
-
+                        {% endfor %}
                         <hr class="divider" />
 
-                        {% for publi in publis %}
-                            {% if publi.sub-headline %}
-
+                        {% for subheadline in site.data.headline.subheadline %}
                             <div class="item row">
-                                <a class="col-md-4 col-12" href="{{publi.url}}" target="_blank">
-                                <img class="img-fluid project-image rounded shadow-sm" src="{{publi.image}}" alt="{{publi.title}}" />
+                                <a class="col-md-4 col-12" href="{{subheadline.url}}" target="_blank">
+                                <img class="img-fluid project-image rounded shadow-sm" src="{{subheadline.image}}" alt="{{subheadline.title}}" />
                                 </a>
                                 <div class="desc col-md-8 col-12">
-                                    <h3 class="title"><a href="{{publi.url}}" target="_blank">{{publi.title}}</a></h3>
+                                    <h3 class="title"><a href="{{subheadline.url}}" target="_blank">{{subheadline.title}}</a></h3>
                                 </div><!--//desc-->
                             </div><!--//item-->
-                            {% endif %}
                         {% endfor %}
                     </div><!--//content-->
                 </div><!--//section-inner-->

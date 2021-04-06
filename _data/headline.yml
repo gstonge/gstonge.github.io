@@ -1,0 +1,14 @@
+headline:
+  - title: "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
+    url: "https://arxiv.org/abs/2101.07229"
+    image: "assets/images/publications/bursty2021.png"
+    desc: ""
+
+subheadline:
+  - title: "Social confinement and mesoscopic localization of epidemics on networks"
+    image: "assets/images/publications/social2021.png"
+    url: "https://doi.org/10.1103/PhysRevLett.126.098301"
+
+  - title: "Inference, Model Selection, and the Combinatorics of Growing Trees"
+    image: "assets/images/publications/inference2021.png"
+    url: "https://doi.org/10.1103/PhysRevLett.126.038301"

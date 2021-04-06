@@ -4,9 +4,6 @@ preprints:
     arxiv : "https://arxiv.org/abs/2101.07229"
     year : 2021
     insubmission : true
-    headline: true
-    image: "assets/images/publications/bursty2021.png"
-    url: "https://arxiv.org/abs/2101.07229"
 
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
@@ -23,9 +20,6 @@ articles:
     pagenumber: "098301"
     year : 2021
     journal: Phys. Rev. Lett.
-    sub-headline: true
-    image: "assets/images/publications/social2021.png"
-    url: "https://doi.org/10.1103/PhysRevLett.126.098301"
 
   - title : "Inference, Model Selection, and the Combinatorics of Growing Trees"
     authors : "George T. Cantwell, Guillaume St-Onge, Jean-Gabriel Young"
@@ -36,9 +30,6 @@ articles:
     pagenumber: "038301"
     fulltext: "https://doi.org/10.1103/PhysRevLett.126.038301"
     github: "https://github.com/gcant/temporal-recovery-tree-py"
-    sub-headline: true
-    image: "assets/images/publications/inference2021.png"
-    url: "https://doi.org/10.1103/PhysRevLett.126.038301"
 
   - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
