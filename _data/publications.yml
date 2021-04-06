@@ -1,0 +1,163 @@
+preprints:
+  - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
+    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
+    arxiv : "https://arxiv.org/abs/2101.07229"
+    year : 2021
+    insubmission : true
+    headline: true
+    image: "assets/images/publications/bursty2021.png"
+    url: "https://arxiv.org/abs/2101.07229"
+
+  - title : "Detecting structural perturbations from time series with deep learning"
+    authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
+    arxiv : "https://arxiv.org/abs/2006.05232"
+    year : 2020
+    insubmission : true
+
+articles:
+  - title : "Social confinement and mesoscopic localization of epidemics on networks"
+    authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2003.05924"
+    fulltext: "https://doi.org/10.1103/PhysRevLett.126.098301"
+    volume: 126
+    pagenumber: "098301"
+    year : 2021
+    journal: Phys. Rev. Lett.
+    sub-headline: true
+    image: "assets/images/publications/social2021.png"
+    url: "https://doi.org/10.1103/PhysRevLett.126.098301"
+
+  - title : "Inference, Model Selection, and the Combinatorics of Growing Trees"
+    authors : "George T. Cantwell, Guillaume St-Onge, Jean-Gabriel Young"
+    arxiv : "https://arxiv.org/abs/1910.04788"
+    year : 2021
+    journal: Phys. Rev. Lett.
+    volume: 126
+    pagenumber: "038301"
+    fulltext: "https://doi.org/10.1103/PhysRevLett.126.038301"
+    github: "https://github.com/gcant/temporal-recovery-tree-py"
+    sub-headline: true
+    image: "assets/images/publications/inference2021.png"
+    url: "https://doi.org/10.1103/PhysRevLett.126.038301"
+
+  - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
+    authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2004.10203"
+    fulltext: "https://doi.org/10.1103/PhysRevE.103.032301"
+    volume: 103
+    pagenumber: 032301
+    year : 2021
+    journal: Phys. Rev. E
+
+  - title : "Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network"
+    authors : "Blake J. M. Williams, Guillaume St-Onge, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2007.07429"
+    fulltext: "https://doi.org/10.1371/journal.pcbi.1008606"
+    year : 2021
+    journal: PLOS Comput. Biol.
+    volume: 17
+    pagenumber: e1008606
+
+  - title : "Threefold way to the dimension reduction of dynamics on networks: an application to synchronization"
+    authors : "Vincent Thibeault, Guillaume St-Onge, Louis J. Dubé, Patrick Desrosiers"
+    arxiv : "https://arxiv.org/abs/2005.10922"
+    year : 2020
+    journal: Phys. Rev. Research
+    volume: 2
+    pagenumber: "043215"
+    fulltext: 'https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.2.043215'
+
+  - title : "Network comparison and the within-ensemble graph distance"
+    authors : "Harrison Hartle, Brennan Klein, Stefan McCabe, Alexander Daniels, Guillaume St-Onge, Charles Murphy, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2008.02415"
+    year : 2020
+    journal: Proc. Math. Phys. Eng. Sci
+    volume: 476
+    pagenumber: "20190744"
+    fulltext: 'https://doi.org/10.1098/rspa.2019.0744'
+
+  - title : "Thresholding normally distributed data creates complex networks"
+    authors : "George T. Cantwell, Yanchen Liu, Benjamin F. Maier, Alice C. Schwarze, Carlos A. Serván, Jordan Snyder, Guillaume St-Onge"
+    arxiv : "https://arxiv.org/abs/1902.08278"
+    year : 2020
+    journal: Phys. Rev. E
+    volume: 101
+    pagenumber: "062302"
+    fulltext: 'https://doi.org/10.1103/PhysRevE.101.062302'
+
+  - title: Phase Transition in the Recoverability of Network History
+    authors: Jean-Gabriel Young, Guillaume St-Onge, Edward Laurence, Charles Murphy, Laurent Hébert-Dufresne, Patrick Desrosiers
+    journal: Phys. Rev. X
+    volume: 9
+    pagenumber: "041056"
+    year: 2019
+    arxiv: 'https://arxiv.org/abs/1803.09191'
+    fulltext: 'https://doi.org/10.1103/PhysRevX.9.041056'
+    github: 'https://github.com/jg-you/network-archaeology'
+
+
+  - title: Efficient sampling of spreading processes on complex networks using a composition and rejection algorithm
+    authors: Guillaume St-Onge, Jean-Gabriel Young, Laurent Hébert-Dufresne, Louis J. Dubé
+    year: 2019
+    journal: Comput. Phys. Commun.
+    volume: "240"
+    pagenumber: "30"
+    arxiv: "https://arxiv.org/abs/1808.05859"
+    github: "https://github.com/gstonge/spreading_CR"
+    fulltext: "https://doi.org/10.1016/j.cpc.2019.02.008"
+    type: Preprints
+
+  - title: Universality of the stochastic block model
+    authors: Jean-Gabriel Young, Guillaume St-Onge, Patrick Desrosiers, Louis J. Dubé
+    year: 2018
+    journal: Phys. Rev. E
+    volume: 98
+    pagenumber: "030309"
+    arxiv: 'https://arxiv.org/abs/1806.04214'
+    fulltext: 'https://doi.org/10.1103/PhysRevE.98.032309'
+    type: Preprints
+
+  - title: Geometric evolution of complex networks with degree correlations
+    authors: Charles Murphy, Antoine Allard, Edward Laurence, Guillaume St-Onge and  Louis J. Dubé
+    year: 2018
+    journal: Phys. Rev. E
+    volume: 97
+    pagenumber: "032309"
+    arxiv: 'https://arxiv.org/abs/1710.01600'
+    fulltext: 'https://doi.org/10.1103/PhysRevE.97.032309'
+    type: Preprints
+
+  - title : "Phase transition of the susceptible-infected-susceptible dynamics on time-varying configuration model networks"
+    authors : "Guillaume St-Onge, Jean-Gabriel Young, Edward Laurence, Charles Murphy, Louis J. Dubé"
+    volume : "97"
+    journal : "Phys. Rev. E"
+    year : 2018
+    pagenumber : "022305"
+    fulltext : "https://doi.org/10.1103/PhysRevE.97.022305"
+    arxiv : "https://arxiv.org/abs/1709.09257"
+
+  - title : "Exact vectorial model for nonparaxial focusing by arbitrary axisymmetric surfaces"
+    authors : "Denis Panneton, Guillaume St-Onge, Michel Piché, and Simon Thibault"
+    volume : "33"
+    journal : "J. Opt. Soc. Am."
+    year : 2016
+    pagenumber : "801"
+    fulltext : "https://doi.org/10.1364/JOSAA.33.000801"
+
+  - title : "Needles of light produced with a spherical mirror"
+    authors : "Denis Panneton, Guillaume St-Onge, Michel Piché, and Simon Thibault"
+    volume : "4"
+    journal : "Opt. Lett."
+    year : 2015
+    pagenumber : "419"
+    fulltext : "https://doi.org/10.1364/OL.40.000419"
+
+theses:
+  - title: "Dynamiques de propagation sur réseaux aléatoires: caractérisation de la transition de phase"
+    subtitle: "Propagation dynamics on random networks: characterization of the phase transition"
+    authors: Guillaume St-Onge
+    type: M.Sc.
+    year: 2017
+    thesis-fulltext : "assets/pdf/theses/st-onge_master_2017.pdf"
+    thesis : true
+

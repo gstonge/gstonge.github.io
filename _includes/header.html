@@ -1,22 +1,20 @@
-<header class="navigation" role="banner">
-  <div class="navigation-wrapper">
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
-      <i class="fa fa-bars"></i>
-    </a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
-        <li class="nav-link"><a href="/">News</a>  
-        {% for otherpage in site.pages %}
-          {% if otherpage.title and otherpage.main_nav != false and
-          page.title==otherpage.title and otherpage.title != "Archive"%}
-          <li class="nav-link active-nav"><a href="{{ otherpage.url | prepend: site.baseurl }}">{{ otherpage.title }}</a>
-          {% else %}
-            {% if otherpage.title and otherpage.main_nav != false and otherpage.title != "Archive"%}
-            <li class="nav-link"><a href="{{ otherpage.url | prepend: site.baseurl }}">{{ otherpage.title }}</a>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
-  </div>
-</header>
+<header class="header">
+    <div class="container clearfix">
+        <img class="profile-image img-fluid float-left rounded-circle" src="{{ "/assets/images/profile_picture.jpg" | prepend: site.baseurl }}" alt="profile image" />
+        <div class="profile-content float-left">
+            <h1 class="name">Guillaume St-Onge</h1>
+            <h2 class="desc">Ph.D. candidate in physics</h2>
+            <ul class="social list-inline">
+                {% for social in site.social %}
+                    {% if social.url != null %}
+                        <li class="list-inline-item"><a href="{{ social.url }}"><i class="{{ social.icon }}"></i></a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div><!--//profile-->
+    </div><!--//container-->
+
+    {% include navbar.html %}
+
+</header><!--//header-->
+

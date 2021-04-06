@@ -1,88 +1,109 @@
 ---
 layout: default
 ---
-<div class="home">
 
-<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
-  <div class="scrim {% if site.cover %}has-cover{% endif %}">
-    <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
-      {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
-    </header>
-  </div>
-</div>
+<div class="container sections-wrapper">
+    <div class="row">
+        <div class="primary col-lg-8 col-12">
+            <section class="about section">
+                <div class="section-inner shadow-sm rounded">
+                    <h2 class="heading">About Me</h2>
+                    <div class="content">
+                        <p>
+                        {% capture my_include %}{% include_relative about.md %}{% endcapture %}
+                        {{ my_include | markdownify }}
+                        </p>
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </section><!--//section-->
 
-<div class="wrapper">
-<ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    <section class="post-excerpt" itemprop="description">
-      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
-    </section>
-    <section class="post-meta">
-      <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
-      <div class="post-categories">
-      {% if post.categories.size > 0 %}in {% for cat in post.categories %}
-        {% if site.jekyll-archives %}
-        <a href="{{ site.baseurl }}/archive/">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% else %}
-        <a href="{{ site.baseurl }}/archive/">{{ cat | capitalize }}</a>{% if forloop.last == false %}, {% endif %}
-        {% endif %}
-      {% endfor %}{% endif %}
-      </div>
-    </section>
-  </li>
-  {% if forloop.last == false %}
-  <hr>
-  {% endif %}
-  {% endfor %}
-</ul>
-<a href="{{ site.baseurl }}/archive/">Archive</a>
+           <section class="latest section">
+                <div class="section-inner shadow-sm rounded">
+                    <h2 class="heading">Latest Publications</h2>
+                    <div class="content">
+                        {% assign publis = site.data.publications.preprints | concat: site.data.publications.articles %}
+                        <div class="item featured text-center">
+                            {% for publi in publis %}
+                                {% if publi.headline %}
+                                    <div class="featured-image has-ribbon">
+                                      <a href="{{publi.url}}" target="_blank"><img class="img-fluid project-image rounded shadow-sm"
+                                        src="{{publi.image}}" alt="{{publi.title}}" /></a>
+                                        <div class="ribbon">
+                                            <div class="text">New</div>
+                                        </div>
+                                    </div>
 
+                                    <h3 class="title mb-3"><a href="{{publi.url}}" target="_blank">{{publi.title}}</a></h3>
+                                {% endif %}
+                            {% endfor %}
+                        </div><!--//item-->
 
-<nav class="pagination" role="navigation">
-	<p>
-    {% if paginator.previous_page %}
-			{% if paginator.page == 2 %}
-			<a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
-        <span class="fa-stack fa-lg">
-          <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-        </span>
-      </a>
-			{% else %}
-			<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
-				<span class="fa-stack fa-lg">
-					<i class="fa fa-square fa-stack-2x"></i>
-					<i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-				</span>
-			</a>
-			{% endif %}
-		{% else %}
-		<span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
-    </span>
-		{% endif %}
-		<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-		{% if paginator.next_page %}
-		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-		{% else %}
-		<span class="fa-stack fa-lg">
-      <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
-    </span>
-		{% endif %}
-	</p>
-</nav>
+                        <hr class="divider" />
 
-</div>
-</div>
+                        {% for publi in publis %}
+                            {% if publi.sub-headline %}
+
+                            <div class="item row">
+                                <a class="col-md-4 col-12" href="{{publi.url}}" target="_blank">
+                                <img class="img-fluid project-image rounded shadow-sm" src="{{publi.image}}" alt="{{publi.title}}" />
+                                </a>
+                                <div class="desc col-md-8 col-12">
+                                    <h3 class="title"><a href="{{publi.url}}" target="_blank">{{publi.title}}</a></h3>
+                                </div><!--//desc-->
+                            </div><!--//item-->
+                            {% endif %}
+                        {% endfor %}
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </section><!--//section-->
+
+        </div><!--//primary-->
+
+        <div class="secondary col-lg-4 col-12">
+             <aside class="info aside section">
+                <div class="section-inner shadow-sm rounded">
+                    <h2 class="heading">Information</h2>
+                    <div class="content">
+                        <ul class="list-unstyled">
+                            <li><i class="fas fa-map-marker-alt"></i><span class="sr-only">Location:</span>Québec (Qc), Canada</li>
+                            <li><i class="fas fa-envelope"></i><span class="sr-only">Email:</span>guillaume.st-onge.4@ulaval.ca</li>
+                            <li><i class="fas fa-file-alt"></i><span
+                                class="sr-only">Resume:</span>  <a
+                                href="assets/resume/st-onge_cv_en.pdf">Resume (EN)</a> <a href="assets/resume/st-onge_cv_fr.pdf">Resume (FR)</a></li>
+                        </ul>
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </aside><!--//aside-->
+
+            <aside class="education aside section">
+                <div class="section-inner shadow-sm rounded">
+                    <h2 class="heading">Education</h2>
+                    <div class="content">
+                        <div class="item">
+                            <h3 class="title"><i class="fas fa-graduation-cap"></i> M.Sc. Physics</h3>
+                            <h4 class="university">Université Laval <span class="year">(2015-2017)</span></h4>
+                        </div><!--//item-->
+                        <div class="item">
+                            <h3 class="title"><i class="fas fa-graduation-cap"></i> B.Sc. Phyisics</h3>
+                            <h4 class="university">Université Laval <span class="year">(2012-2015)</span></h4>
+                        </div><!--//item-->
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </aside><!--//section-->
+
+            <aside class="list conferences aside section">
+                <div class="section-inner shadow-sm rounded">
+                    <h2 class="heading">Upcoming events</h2>
+                    <div class="content">
+                        <ul class="list-unstyled">
+                            {% for event in site.data.events %}
+                              <li><i class="far fa-calendar-alt"></i> <a href="{{event.url}}">{{event.name}}</a>, {{event.date}}</li>
+                            {% endfor %}
+                        </ul>
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </aside><!--//section-->
+
+        </div><!--//secondary-->
+    </div><!--//row-->
+</div><!--//masonry-->

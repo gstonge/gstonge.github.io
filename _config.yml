@@ -14,81 +14,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guillaume St-Onge
-subtitle: Ph.D. candidate in Physics at Université Laval
+subtitle: Ph.D. candidate in Physics
 author: Guillaume St-Onge
 email: guillaume.st-onge.4@ulaval.ca
 description: > # this means to ignore newlines until "baseurl:"
-    Personal website to share news, some code and my research contributions.
-footer_text: >
-    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>. Based on <a href="https://github.com/bencentra/centrarium">Centrarium</a> theme.
+    Personal website
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-cover: "/assets/header_image.jpg"
+url: "https://www.gstonge.ca" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: stonge_g
 github_username: gstonge
 
 # Build settings
 markdown: kramdown
-#theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
-highlightjs_theme: "monokai-sublime"
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
-descriptions:
-  - cat: publication
-    desc: "Posts associated to my scientific publications."
-  - cat: conference
-    desc: "Posts associated to scientific conferences I have attended."
-  - cat: workshop
-    desc: "Posts associated to workshops I have participated."
-  - cat: other
-    desc: "Other non-specific posts."
 
 social:
   - name: Twitter
-    icon: twitter
+    icon: fab fa-twitter
     username: stonge_g
     url: https://twitter.com/stonge_g
     desc: Follow me on Twitter
-    share: true
+
+  - name: Linkedin
+    icon: fab fa-linkedin-in
+    url: https://www.linkedin.com/in/guillaume-st-onge-461b62128
 
   - name: GitHub
-    icon: github
+    icon: fab fa-github
     username: gstonge
     url: https://github.com/gstonge
     desc: See my projects on Github
-    share: false
 
   - name: Google Scholar
-    icon: graduation-cap
+    icon: fas fa-graduation-cap
     username: Guillaume St-Onge
     url: https://scholar.google.com/citations?user=UwKTgecAAAAJ
     desc: My publications
-    share: false
 
 #Define excerpt_separator
 excerpt_separator: <!--more-->

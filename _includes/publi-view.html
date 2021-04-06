@@ -1,0 +1,65 @@
+<div class="publi-container">
+	<!-- {% if publi.insubmission %} -->
+		<!-- <span class="publi-submission">In submission</span> -->
+	<!-- {% endif %} -->
+	<h6 class="publi-name">{{publi.title}}</h6>
+	{% if publi.subtitle %}
+    <p class="publi-subtitle"> ({{publi.subtitle}}) </p>
+  {% endif %}
+	<p class="publi-authors">{{publi.authors}}</p>
+	<!-- In submission -->
+	{% if publi.insubmission %}
+      <p class="publi-submission"></p>
+	{% elsif publi.thesis %}
+      <p class="publi-thesis"></p>
+	{% else %}
+    <!-- In press -->
+    {% if publi.inpress %}
+      <!-- journals -->
+      {% if publi.journal %}
+        <p class="publi-ref">{{publi.journal}} (Accepted) </p>
+      {% else %}
+        <!-- books -->
+        {% if publi.book %}
+          <p class="publi-ref">{{publi.book}}, (Accepted)</p>
+        {% endif %}
+      {% endif %}
+    {% else %}
+    <!-- Published -->
+      <!-- journals -->
+      {% if publi.journal %}
+        <p class="publi-ref">{{publi.journal}}, <span
+          class="volume">{{publi.volume}}</span>, <span
+          class="pagenumber">{{publi.pagenumber}}</span> ({{publi.year}})</p>
+      {% else %}
+        <!-- books -->
+        {% if publi.book %}
+          <p class="publi-ref">{{publi.book}}, <span
+            class="edition">{{publi.editor}}</span>, <span
+            class="pagenumber">{{publi.publisher}}</span></p>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+	{% endif %}
+
+	<!-- <br> -->
+	<!-- Btns -->
+	{% if publi.fulltext %}
+		<a class="fulltext" href="{{ publi.fulltext }}">Journal</a>
+	{% endif %}
+	{% if publi.thesis-fulltext %}
+		<a class="fulltext" href="{{ publi.thesis-fulltext }}">Thesis</a>
+	{% endif %}
+	{% if publi.arxiv %}
+		<a class="arxiv" href="{{ publi.arxiv }}">arXiv</a>
+	{% endif %}
+  {% if publi.medrxiv %}
+		<a class="medarxiv" href="{{ publi.medrxiv }}">medRxiv</a>
+	{% endif %}
+	{% if publi.github %}
+		<a class="github" href="{{ publi.github }}">Github</a>
+	{% endif %}
+  {% if publi.chapter %}
+		<a class="chapter" href="{{ publi.chapter }}">Chapter</a>
+	{% endif %}
+</div>
