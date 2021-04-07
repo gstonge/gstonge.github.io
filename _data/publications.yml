@@ -12,7 +12,7 @@ preprints:
     insubmission : true
 
 articles:
-  - title : "Social confinement and mesoscopic localization of epidemics on networks"
+  - title : "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2003.05924"
     fulltext: "https://doi.org/10.1103/PhysRevLett.126.098301"
