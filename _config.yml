@@ -52,5 +52,10 @@ social:
     url: https://scholar.google.com/citations?user=UwKTgecAAAAJ
     desc: My publications
 
+  - name: ORCID
+    icon: fab fa-orcid
+    url: https://orcid.org/0000-0001-5415-3748
+    username: Guillaume St-Onge
+
 #Define excerpt_separator
 excerpt_separator: <!--more-->
