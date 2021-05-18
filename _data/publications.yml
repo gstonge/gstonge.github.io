@@ -1,4 +1,10 @@
 preprints:
+  - title : "Influential groups for seeding and sustaining hypergraph contagions"
+    authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2105.07092"
+    year : 2021
+    insubmission : true
+
   - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     arxiv : "https://arxiv.org/abs/2101.07229"
