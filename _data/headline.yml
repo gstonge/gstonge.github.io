@@ -1,10 +1,15 @@
 headline:
+  - title: "Influential groups for seeding and sustaining hypergraph contagions"
+    url: "https://arxiv.org/abs/2105.07092"
+    image: "assets/images/publications/influential2021.png"
+    desc: ""
+
+subheadline:
   - title: "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
     url: "https://arxiv.org/abs/2101.07229"
     image: "assets/images/publications/bursty2021.png"
     desc: ""
 
-subheadline:
   - title: "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
     image: "assets/images/publications/social2021.png"
     url: "https://doi.org/10.1103/PhysRevLett.126.098301"
