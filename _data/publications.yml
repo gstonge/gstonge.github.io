@@ -5,7 +5,7 @@ preprints:
     year : 2021
     insubmission : true
 
-  - title : "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
+  - title : "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     arxiv : "https://arxiv.org/abs/2101.07229"
     year : 2021

@@ -5,7 +5,7 @@ headline:
     desc: ""
 
 subheadline:
-  - title: "Bursty exposure on higher-order networks leads to nonlinear infection kernels"
+  - title: "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
     url: "https://arxiv.org/abs/2101.07229"
     image: "assets/images/publications/bursty2021.png"
     desc: ""
