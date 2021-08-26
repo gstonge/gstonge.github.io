@@ -5,12 +5,6 @@ preprints:
     year : 2021
     insubmission : true
 
-  - title : "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
-    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
-    arxiv : "https://arxiv.org/abs/2101.07229"
-    year : 2021
-    insubmission : true
-
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
     arxiv : "https://arxiv.org/abs/2006.05232"
@@ -18,6 +12,13 @@ preprints:
     insubmission : true
 
 articles:
+  - title : "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
+    authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
+    arxiv : "https://arxiv.org/abs/2101.07229"
+    year : 2021
+    inpress : true
+    journal : Phys. Rev. Lett.
+
   - title : "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2003.05924"

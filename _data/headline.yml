@@ -1,13 +1,13 @@
 headline:
-  - title: "Influential groups for seeding and sustaining hypergraph contagions"
-    url: "https://arxiv.org/abs/2105.07092"
-    image: "assets/images/publications/influential2021.png"
-    desc: ""
-
-subheadline:
   - title: "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
     url: "https://arxiv.org/abs/2101.07229"
     image: "assets/images/publications/bursty2021.png"
+    desc: ""
+
+subheadline:
+  - title: "Influential groups for seeding and sustaining hypergraph contagions"
+    url: "https://arxiv.org/abs/2105.07092"
+    image: "assets/images/publications/influential2021.png"
     desc: ""
 
   - title: "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
