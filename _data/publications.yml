@@ -1,7 +1,14 @@
 preprints:
+
   - title : "Influential groups for seeding and sustaining hypergraph contagions"
     authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2105.07092"
+    year : 2021
+    insubmission : true
+
+  - title : "Source-sink cooperation dynamics constrain institutional evolution in a group-structured society"
+    authors : "Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill"
+    arxiv : "https://arxiv.org/abs/2109.08106"
     year : 2021
     insubmission : true
 
