@@ -1,11 +1,4 @@
 preprints:
-
-  - title : "Influential groups for seeding and sustaining hypergraph contagions"
-    authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/2105.07092"
-    year : 2021
-    insubmission : true
-
   - title : "Source-sink cooperation dynamics constrain institutional evolution in a group-structured society"
     authors : "Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill"
     arxiv : "https://arxiv.org/abs/2109.08106"
@@ -19,11 +12,13 @@ preprints:
     insubmission : true
 
 articles:
-  - title : "Universal nonlinear infection kernel from heterogeneous exposure on higher-order networks"
+  - title : "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     arxiv : "https://arxiv.org/abs/2101.07229"
+    fulltext : "https://doi.org/10.1103/PhysRevLett.127.158301"
+    volume : 127
+    pagenumber : 158301
     year : 2021
-    inpress : true
     journal : Phys. Rev. Lett.
 
   - title : "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
@@ -44,6 +39,13 @@ articles:
     pagenumber: "038301"
     fulltext: "https://doi.org/10.1103/PhysRevLett.126.038301"
     github: "https://github.com/gcant/temporal-recovery-tree-py"
+
+  - title : "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
+    authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2105.07092"
+    year : 2021
+    inpress : true
+    journal : Commun. Phys.
 
   - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
