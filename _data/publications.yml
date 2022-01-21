@@ -1,10 +1,4 @@
 preprints:
-  - title : "Source-sink cooperation dynamics constrain institutional evolution in a group-structured society"
-    authors : "Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill"
-    arxiv : "https://arxiv.org/abs/2109.08106"
-    year : 2021
-    insubmission : true
-
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
     arxiv : "https://arxiv.org/abs/2006.05232"
@@ -12,6 +6,22 @@ preprints:
     insubmission : true
 
 articles:
+  - title : "Source-sink cooperation dynamics constrain institutional evolution in a group-structured society"
+    authors : "Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill"
+    arxiv : "https://arxiv.org/abs/2109.08106"
+    year : 2022
+    inpress : true
+    journal : Royal Soc. Open Sci.
+
+  - title : "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
+    authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2105.07092"
+    fulltext : "https://doi.org/10.1038/s42005-021-00788-w"
+    volume : "5"
+    pagenumber : "25"
+    year : 2022
+    journal : Commun. Phys.
+
   - title : "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
     authors : "Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi"
     arxiv : "https://arxiv.org/abs/2101.07229"
@@ -39,13 +49,6 @@ articles:
     pagenumber: "038301"
     fulltext: "https://doi.org/10.1103/PhysRevLett.126.038301"
     github: "https://github.com/gcant/temporal-recovery-tree-py"
-
-  - title : "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
-    authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/2105.07092"
-    year : 2021
-    inpress : true
-    journal : Commun. Phys.
 
   - title : "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
     authors : "Guillaume St-Onge, Vincent Thibeault, Antoine Allard, Louis J. Dubé, Laurent Hébert-Dufresne"
