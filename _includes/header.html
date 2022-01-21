@@ -2,8 +2,8 @@
     <div class="container clearfix">
         <img class="profile-image img-fluid float-left rounded-circle" src="{{"/assets/images/profile_picture.png" | prepend: site.baseurl }}" alt="profile image" />
         <div class="profile-content float-left">
-            <h1 class="name">Guillaume St-Onge</h1>
-            <h2 class="desc">Ph.D. candidate in physics</h2>
+            <h1 class="name">{{ site.title }}</h1>
+            <h2 class="desc">{{ site.subtitle }}</h2>
             <ul class="social list-inline">
                 {% for social in site.social %}
                     {% if social.url != null %}
