@@ -5,6 +5,12 @@ preprints:
     year : 2020
     insubmission : true
 
+  - title : "Hierarchical team structure and multidimensional localization (or siloing) on networks"
+    authors : "Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James Bagrow, Antoine Allard"
+    arxiv : "https://arxiv.org/abs/2203.00745"
+    year : 2022
+    insubmission : true
+
 articles:
   - title : "Source-sink behavioural dynamics limit institutional evolution in a group-structured society"
     authors : "Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill"
