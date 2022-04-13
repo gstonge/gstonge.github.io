@@ -6,12 +6,14 @@ preprints:
     insubmission : true
 
 articles:
-  - title : "Source-sink cooperation dynamics constrain institutional evolution in a group-structured society"
+  - title : "Source-sink behavioural dynamics limit institutional evolution in a group-structured society"
     authors : "Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill"
     arxiv : "https://arxiv.org/abs/2109.08106"
+    fulltext : "https://doi.org/10.1098/rsos.211743"
     year : 2022
-    inpress : true
-    journal : Royal Soc. Open Sci.
+    journal : R. Soc. Open Sci.
+    volume : "9"
+    pagenumber : "211743"
 
   - title : "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
     authors : "Guillaume St-Onge, Iacopo Iacopini, Vito Latora, Alain Barrat, Giovanni Petri, Antoine Allard, Laurent Hébert-Dufresne"
