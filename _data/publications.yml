@@ -176,6 +176,15 @@ theses:
     authors: Guillaume St-Onge
     type: M.Sc.
     year: 2017
-    thesis-fulltext : "assets/pdf/theses/st-onge_master_2017.pdf"
+    thesis-fulltext : "assets/pdf/theses/st-onge_master_thesis_2017.pdf"
+    thesis : true
+
+theses:
+  - title: "Processus de contagion sur réseaux complexes au-delà des interactions dyadiques"
+    subtitle: "Contagion processes on complex networks beyond dyadic interactions"
+    authors: Guillaume St-Onge
+    type: Ph.D.
+    year: 2022
+    thesis-fulltext : "assets/pdf/theses/st-onge_doctoral_thesis_2022.pdf"
     thesis : true
 
