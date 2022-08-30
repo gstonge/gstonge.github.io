@@ -171,6 +171,14 @@ articles:
     fulltext : "https://doi.org/10.1364/OL.40.000419"
 
 theses:
+  - title: "Processus de contagion sur réseaux complexes au-delà des interactions dyadiques"
+    subtitle: "Contagion processes on complex networks beyond dyadic interactions"
+    authors: Guillaume St-Onge
+    type: Ph.D.
+    year: 2022
+    thesis-fulltext : "assets/pdf/theses/st-onge_doctoral_thesis_2022.pdf"
+    thesis : true
+
   - title: "Dynamiques de propagation sur réseaux aléatoires: caractérisation de la transition de phase"
     subtitle: "Propagation dynamics on random networks: characterization of the phase transition"
     authors: Guillaume St-Onge
@@ -179,12 +187,4 @@ theses:
     thesis-fulltext : "assets/pdf/theses/st-onge_master_thesis_2017.pdf"
     thesis : true
 
-theses:
-  - title: "Processus de contagion sur réseaux complexes au-delà des interactions dyadiques"
-    subtitle: "Contagion processes on complex networks beyond dyadic interactions"
-    authors: Guillaume St-Onge
-    type: Ph.D.
-    year: 2022
-    thesis-fulltext : "assets/pdf/theses/st-onge_doctoral_thesis_2022.pdf"
-    thesis : true
 
