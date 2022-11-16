@@ -1,6 +1,13 @@
+<h6 class="title">{{tuto.title}}</h6>
 
-<div class="tuto-container">
-	<h6 class="tuto-name">{{tuto.title}}</h6>
+<div class="item row">
+    <a class="col-md-4 col-12" href="{{ tuto.jburl }}">
+      <img class="img-fluid project-image rounded shadow-sm" src="{{tuto.img}}" alt="{{tuto.title}}" />
+    </a>
+
+</div><!--//item-->
+<br>
+<div class="publi-container">
 
 	<!-- Btns -->
 	{% if tuto.jburl %}
