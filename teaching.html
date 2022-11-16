@@ -1,0 +1,24 @@
+---
+layout: default
+title: Teaching
+---
+<div class="container sections-wrapper">
+    <div class="row">
+        <div class="primary col-lg-12 col-12">
+
+            <section class="tutorials section">
+                <div class="section-inner shadow-sm rounded">
+                    <h2 class="heading">Tutorials</h2>
+                    <div class="content">
+                         <ul class="tuto-list">
+                            {% for tuto in site.data.teaching.tutorials %}
+                                {% include tuto-view.html tuto=tuto %}
+                            {% endfor %}
+                        </ul>
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </section><!--//section-->
+
+        </div><!--//primary-->
+    </div>
+</div><!--//masonry-->

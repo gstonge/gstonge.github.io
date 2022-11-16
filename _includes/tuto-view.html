@@ -1,0 +1,17 @@
+
+<div class="tuto-container">
+	<h6 class="tuto-name">{{tuto.title}}</h6>
+
+	<!-- Btns -->
+	{% if tuto.jburl %}
+		<a class="jburl" href="{{ tuto.jburl }}">Jupyter Book</a>
+	{% endif %}
+
+	{% if tuto.github %}
+		<a class="github" href="{{ tuto.github }}">Github</a>
+	{% endif %}
+
+  {% if tuto.slides %}
+		<a class="slides" href="{{ tuto.slides }}">Slides</a>
+	{% endif %}
+</div>
