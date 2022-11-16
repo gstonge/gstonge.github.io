@@ -2,5 +2,5 @@ tutorials:
   - title : "Probability generating functions for computational epidemiology"
     jburl : "https://www.gstonge.ca/pgfunk/chapters/index.html"
     github : "https://github.com/gstonge/pgfunk"
-    slides : ""
+    slides : "../assets/pdf/theses/st-onge_doctoral_thesis_2022.pdf"
 
