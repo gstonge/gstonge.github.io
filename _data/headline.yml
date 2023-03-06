@@ -1,12 +1,16 @@
 headline:
 
+  - title: "Heterogeneous transmission in groups induces a superlinear force of infection"
+    url: "https://arxiv.org/abs/2302.13358"
+    image: "assets/images/publications/heterogeneous2023.png"
+    desc: ""
+
+subheadline:
+
   - title: "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
     url: "https://doi.org/10.1038/s42005-021-00788-w"
     image: "assets/images/publications/influential2021.png"
     desc: ""
-
-
-subheadline:
 
   - title: "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
     url: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158301"

@@ -1,4 +1,10 @@
 preprints:
+  - title : "Heterogeneous transmission in groups induces a superlinear force of infection"
+    authors : "Guillaume St-Onge, Laurent Hébert-Dufresne, Antoine Allard"
+    arxiv : "https://arxiv.org/abs/2302.13358"
+    year : 2023
+    insubmission : true
+
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
     arxiv : "https://arxiv.org/abs/2006.05232"
