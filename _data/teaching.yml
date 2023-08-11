@@ -1,13 +1,13 @@
 tutorials:
   - title : "Probability generating functions for computational epidemiology"
     jburl : "https://cosmos-books.github.io/pgfunk/chapters/index.html"
-    github : "https://github.com/cosmos-books/pgfunk"
+    github : "https://github.com/cosmo-notes/pgfunk"
     img : "../assets/images/teaching/pgfunk_logo.png"
     slides : "../assets/pdf/"
 
   - title : "Taming complexity with Approximate Master Equations"
     jburl : "https://cosmos-books.github.io/tame/chapters/index.html"
-    github : "https://github.com/cosmos-books/tame"
+    github : "https://github.com/cosmo-notes/tame"
     img : "../assets/images/teaching/tame_logo.png"
     slides : "../assets/pdf/"
 
