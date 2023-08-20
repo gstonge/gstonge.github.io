@@ -1,4 +1,10 @@
 preprints:
+  - title : "Adaptive hypergraphs and the characteristic scale of higher-order contagions using generalized approximate master equations"
+    authors : "Giulio Burgio, Guillaume St-Onge, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2307.11268"
+    year : 2023
+    insubmission : true
+
   - title : "Heterogeneous transmission in groups induces a superlinear force of infection"
     authors : "Guillaume St-Onge, Laurent Hébert-Dufresne, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2302.13358"
@@ -11,13 +17,17 @@ preprints:
     year : 2020
     insubmission : true
 
+
+articles:
   - title : "Hierarchical team structure and multidimensional localization (or siloing) on networks"
     authors : "Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James Bagrow, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2203.00745"
-    year : 2022
-    insubmission : true
+    fulltext : "https://doi.org/10.1088/2632-072X/ace602"
+    year : 2023
+    journal : J. phys. Complex.
+    volume : 4
+    pagenumber : 035002
 
-articles:
   - title : "Source-sink behavioural dynamics limit institutional evolution in a group-structured society"
     authors : "Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill"
     arxiv : "https://arxiv.org/abs/2109.08106"
