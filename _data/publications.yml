@@ -5,12 +5,6 @@ preprints:
     year : 2023
     insubmission : true
 
-  - title : "Heterogeneous transmission in groups induces a superlinear force of infection"
-    authors : "Guillaume St-Onge, Laurent Hébert-Dufresne, Antoine Allard"
-    arxiv : "https://arxiv.org/abs/2302.13358"
-    year : 2023
-    insubmission : true
-
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
     arxiv : "https://arxiv.org/abs/2006.05232"
@@ -19,6 +13,16 @@ preprints:
 
 
 articles:
+
+  - title : "Nonlinear bias toward complex contagion in uncertain transmission settings"
+    authors : "Guillaume St-Onge, Laurent Hébert-Dufresne,   Antoine Allard"
+    arxiv : "https://arxiv.org/abs/2302.13358"
+    fulltext : "https://doi.org/10.1073/pnas.2312202121"
+    year : 2023
+    journal : Proc. Natl. Acad. Sci. U.S.A.
+    volume : 121
+    pagenumber : e2312202121
+
   - title : "Hierarchical team structure and multidimensional localization (or siloing) on networks"
     authors : "Laurent Hébert-Dufresne, Guillaume St-Onge, John Meluso, James Bagrow, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2203.00745"
