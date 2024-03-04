@@ -1,26 +1,19 @@
 headline:
+  - title: "Ensemble<sup>2</sup>: Scenarios ensembling for communication and performance analysis"
+    url: "https://doi.org/10.1016/j.epidem.2024.100748"
+    image: "assets/images/publications/ensemble2.jpeg"
+    desc: ""
+
+
+subheadline:
 
   - title: "Nonlinear bias toward complex contagion in uncertain transmission settings"
     url: "https://doi.org/10.1073/pnas.2312202121"
     image: "assets/images/publications/heterogeneous2023.png"
     desc: ""
 
-subheadline:
-
   - title: "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
     url: "https://doi.org/10.1038/s42005-021-00788-w"
     image: "assets/images/publications/influential2021.png"
     desc: ""
 
-  - title: "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
-    url: "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.158301"
-    image: "assets/images/publications/bursty2021.png"
-    desc: ""
-
-  - title: "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
-    image: "assets/images/publications/social2021.png"
-    url: "https://doi.org/10.1103/PhysRevLett.126.098301"
-
-  - title: "Inference, Model Selection, and the Combinatorics of Growing Trees"
-    image: "assets/images/publications/inference2021.png"
-    url: "https://doi.org/10.1103/PhysRevLett.126.038301"

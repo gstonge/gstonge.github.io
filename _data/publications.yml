@@ -14,6 +14,14 @@ preprints:
 
 articles:
 
+  - title : "Ensemble<sup>2</sup>: Scenarios ensembling for communication and performance analysis"
+    authors : "Clara Bay, Guillaume St-Onge, Jessica T. Davis, Matteo Chinazzi, Emily Howerton, Justin Lessler, Michael C. Runge, Katriona Shea, Shaun Truelove, Cecile Viboud, Alessandro Vespignani"
+    fulltext : "https://doi.org/10.1016/j.epidem.2024.100748"
+    year : 2024
+    journal : Epidemics
+    volume : 46
+    pagenumber : 100748
+
   - title : "Nonlinear bias toward complex contagion in uncertain transmission settings"
     authors : "Guillaume St-Onge, Laurent Hébert-Dufresne,   Antoine Allard"
     arxiv : "https://arxiv.org/abs/2302.13358"
