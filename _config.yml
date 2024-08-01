@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Guillaume St-Onge
-subtitle: Postdoctoral Research Associate
+subtitle:
 author: Guillaume St-Onge
 email: g.st-onge@northeastern.edu
 location: Boston MA, USA
