@@ -1,7 +1,7 @@
 preprints:
   - title : "Optimization and performance analytics of global aircraft-based wastewater surveillance networks"
     authors : "Guillaume St-Onge, Jessica T. Davis, Laurent Hébert-Dufresne, Antoine Allard, Alessandra Urbinati, Samuel V. Scarpino, Matteo Chinazzi, Alessandro Vespignani"
-    arxiv : "https://doi.org/10.1101/2024.08.02.24311418"
+    medrxiv : "https://doi.org/10.1101/2024.08.02.24311418"
     year : 2024
     insubmission : true
 

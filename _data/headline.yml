@@ -1,11 +1,16 @@
 headline:
-  - title: "Ensemble<sup>2</sup>: Scenarios ensembling for communication and performance analysis"
-    url: "https://doi.org/10.1016/j.epidem.2024.100748"
-    image: "assets/images/publications/ensemble2.jpeg"
+  - title: "Optimization and performance analytics of global aircraft-based wastewater surveillance networks"
+    url: "https://doi.org/10.1101/2024.08.02.24311418"
+    image: "assets/images/publications/wastewater.png"
     desc: ""
 
 
 subheadline:
+
+  - title: "Ensemble<sup>2</sup>: Scenarios ensembling for communication and performance analysis"
+    url: "https://doi.org/10.1016/j.epidem.2024.100748"
+    image: "assets/images/publications/ensemble2.jpeg"
+    desc: ""
 
   - title: "Nonlinear bias toward complex contagion in uncertain transmission settings"
     url: "https://doi.org/10.1073/pnas.2312202121"
