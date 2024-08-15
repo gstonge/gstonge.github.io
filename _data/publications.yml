@@ -1,4 +1,10 @@
 preprints:
+  - title : "Optimization and performance analytics of global aircraft-based wastewater surveillance networks"
+    authors : "Guillaume St-Onge, Jessica T. Davis, Laurent Hébert-Dufresne, Antoine Allard, Alessandra Urbinati, Samuel V. Scarpino, Matteo Chinazzi, Alessandro Vespignani"
+    arxiv : "https://doi.org/10.1101/2024.08.02.24311418"
+    year : 2024
+    insubmission : true
+
   - title : "Adaptive hypergraphs and the characteristic scale of higher-order contagions using generalized approximate master equations"
     authors : "Giulio Burgio, Guillaume St-Onge, Laurent Hébert-Dufresne"
     arxiv : "https://arxiv.org/abs/2307.11268"
@@ -13,7 +19,6 @@ preprints:
 
 
 articles:
-
   - title : "Ensemble<sup>2</sup>: Scenarios ensembling for communication and performance analysis"
     authors : "Clara Bay, Guillaume St-Onge, Jessica T. Davis, Matteo Chinazzi, Emily Howerton, Justin Lessler, Michael C. Runge, Katriona Shea, Shaun Truelove, Cecile Viboud, Alessandro Vespignani"
     fulltext : "https://doi.org/10.1016/j.epidem.2024.100748"
