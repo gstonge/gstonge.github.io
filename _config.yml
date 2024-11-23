@@ -31,6 +31,12 @@ markdown: kramdown
 
 
 social:
+  - name: Bluesky
+    icon: fab fa-bluesky
+    username: gstonge.bsky.social
+    url: https://bsky.app/profile/gstonge.bsky.social
+    desc: Follow me on Bluesky
+
   - name: Twitter
     icon: fab fa-twitter
     username: stonge_g
