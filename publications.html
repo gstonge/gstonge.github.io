@@ -5,18 +5,6 @@ title: Publications
 <div class="container sections-wrapper">
     <div class="row">
         <div class="primary col-lg-12 col-12">
-            <section class="theses section">
-                <div class="section-inner shadow-sm rounded">
-                    <h2 class="heading">Theses</h2>
-                    <div class="content">
-                         <ul class="publi-list">
-                            {% for publi in site.data.publications.theses %}
-                                {% include publi-view.html publi=pupli %}
-                            {% endfor %}
-                        </ul>
-                    </div><!--//content-->
-                </div><!--//section-inner-->
-            </section><!--//section-->
 
             <section class="preprint section">
                 <div class="section-inner shadow-sm rounded">
@@ -37,6 +25,19 @@ title: Publications
                     <div class="content">
                          <ul class="publi-list">
                             {% for publi in site.data.publications.articles %}
+                                {% include publi-view.html publi=pupli %}
+                            {% endfor %}
+                        </ul>
+                    </div><!--//content-->
+                </div><!--//section-inner-->
+            </section><!--//section-->
+
+            <section class="theses section">
+                <div class="section-inner shadow-sm rounded">
+                    <h2 class="heading">Theses</h2>
+                    <div class="content">
+                         <ul class="publi-list">
+                            {% for publi in site.data.publications.theses %}
                                 {% include publi-view.html publi=pupli %}
                             {% endfor %}
                         </ul>
