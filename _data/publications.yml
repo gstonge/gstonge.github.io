@@ -1,8 +1,8 @@
 preprints:
-  - title : "Optimization and performance analytics of global aircraft-based wastewater surveillance networks"
-    authors : "Guillaume St-Onge, Jessica T. Davis, Laurent Hébert-Dufresne, Antoine Allard, Alessandra Urbinati, Samuel V. Scarpino, Matteo Chinazzi, Alessandro Vespignani"
-    medrxiv : "https://doi.org/10.1101/2024.08.02.24311418"
-    year : 2024
+  - title : "Evaluation of stochastic trajectory-based epidemic models using the energy score"
+    authors : "Clara Bay, Kunpeng Mu, Guillaume St-Onge, Matteo Chinazzi, Jessica T. Davis, Alessandro Vespignani"
+    arxiv : "https://doi.org/10.1101/2025.01.13.25320493"
+    year : 2025
     insubmission : true
 
   - title : "Adaptive hypergraphs and the characteristic scale of higher-order contagions using generalized approximate master equations"
@@ -19,6 +19,13 @@ preprints:
 
 
 articles:
+  - title : "Pandemic monitoring with global aircraft-based wastewater surveillance networks"
+    authors : "Guillaume St-Onge, Jessica T. Davis, Laurent Hébert-Dufresne, Antoine Allard, Alessandra Urbinati, Samuel V. Scarpino, Matteo Chinazzi, Alessandro Vespignani"
+    fulltext: "https://doi.org/10.1038/s41591-025-03501-4"
+    year : 2025
+    journal : Nat. Med.
+
+
   - title : "Ensemble<sup>2</sup>: Scenarios ensembling for communication and performance analysis"
     authors : "Clara Bay, Guillaume St-Onge, Jessica T. Davis, Matteo Chinazzi, Emily Howerton, Justin Lessler, Michael C. Runge, Katriona Shea, Shaun Truelove, Cecile Viboud, Alessandro Vespignani"
     fulltext : "https://doi.org/10.1016/j.epidem.2024.100748"
