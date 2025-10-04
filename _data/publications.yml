@@ -21,9 +21,27 @@ preprints:
 articles:
   - title : "Pandemic monitoring with global aircraft-based wastewater surveillance networks"
     authors : "Guillaume St-Onge, Jessica T. Davis, Laurent Hébert-Dufresne, Antoine Allard, Alessandra Urbinati, Samuel V. Scarpino, Matteo Chinazzi, Alessandro Vespignani"
-    fulltext: "https://doi.org/10.1038/s41591-025-03501-4"
+    fulltext : "https://doi.org/10.1038/s41591-025-03501-4"
+    volume : 31
+    page :  788–796
     year : 2025
     journal : Nat. Med.
+
+  - title : "Characteristic scales and adaptation in higher-order contagions"
+    authors : "Giulio Burgio, Guillaume St-Onge, Laurent Hébert-Dufresne"
+    fulltext: "https://doi.org/10.1038/s41467-025-59777-0"
+    volume : 16
+    page : 4589
+    year : 2025
+    journal : Nat. Commun.
+
+  - title : "One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories"
+    authors : "Laurent Hébert-Dufresne, Yong-Yeol Ahn, Antoine Allard, Vittoria Colizza, Jessica W. Crothers, Peter Sheridan Dodds, Mirta Galesic, Fakhteh Ghanbarnejad, Dominique Gravel, Ross A. Hammond, Kristina Lerman, Juniper Lovato, John J. Openshaw, S. Redner, Samuel V. Scarpino, Guillaume St-Onge, Timothy R. Tangherlini, Jean-Gabriel Young"
+    fulltext: "https://doi.org/10.1038/s44260-025-00050-2"
+    volume : 2
+    page: 26
+    year : 2025
+    journal : npj Complex.
 
 
   - title : "Ensemble<sup>2</sup>: Scenarios ensembling for communication and performance analysis"
