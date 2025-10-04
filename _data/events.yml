@@ -1,7 +1,12 @@
 
-#- name: "Collabathon"
-  #date: "September 24-26, 2024"
-  #url: "https://www.epistorm.org/collabathon2024"
+- name: "The Art of Epidemics: Data Storytelling through Effective Visualizations (special session at Epidemics 10)"
+  date: "November 30-December 3, 2025"
+  url: "https://artofepidemics.wixsite.com/epidemics10"
+
+- name: "NetSci2026 International School and Conference on Network Science"
+  date: "June 1-5, 2026"
+  url: "https://www.netsci2026.com/"
+
 
 #- name: "LANL"
   #date: "August 19-21, 2024"
