@@ -1,14 +1,32 @@
 preprints:
+  - title : "The impact of behavioral homophily and conformity on epidemic spreading in networks with large groups"
+    authors : "Olivier Ribordy, Clara Granell, Guillaume St-Onge, Laurent Hébert-Dufresne, Alex Arenas, Antoine Allard"
+    arxiv : "https://arxiv.org/abs/2605.25875"
+    year : 2026
+    insubmission : true
+
+  - title : "Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions"
+    authors : "Laurent Hébert-Dufresne, Antoine Allard, Jean-Gabriel Young, William H. W. Thompson, Guillaume St-Onge"
+    arxiv : "https://arxiv.org/abs/2605.00791"
+    year : 2026
+    insubmission : true
+
+  - title : "Group dynamics shape contagion onsets and multistable active phases under collective reinforcement"
+    authors : "Santiago Lamata-Otín, Federico Malizia, Leah A. Keating, Guillaume St-Onge, Vito Latora, Jesús Gómez-Gardeñes, Laurent Hébert-Dufresne"
+    arxiv : "https://arxiv.org/abs/2603.28566"
+    year : 2026
+    insubmission : true
+
+  - title : "A multi-scale model to evaluate airport wastewater surveillance and ICU genomic monitoring for pandemic preparedness"
+    authors : "Benjamin K. Reddy, Joseph L.-H. Tsui, Kieran O. Drake, Guillaume St-Onge, Jessica T. Davis, Cathal Mills, Jake Dunning, Isaac I. Bogoch, Samuel V. Scarpino, Samir Bhatt, Oliver G. Pybus, Andrew Rambaut, Matthew J. Wade, Thomas Ward, Meera Chand, Erik M. Volz, Alessandro Vespignani, Moritz U. G. Kraemer"
+    medrxiv : "https://doi.org/10.64898/2026.02.27.26347250"
+    year : 2026
+    insubmission : true
+
   - title : "Evaluation of stochastic trajectory-based epidemic models using the energy score"
     authors : "Clara Bay, Kunpeng Mu, Guillaume St-Onge, Matteo Chinazzi, Jessica T. Davis, Alessandro Vespignani"
     arxiv : "https://doi.org/10.1101/2025.01.13.25320493"
     year : 2025
-    insubmission : true
-
-  - title : "Adaptive hypergraphs and the characteristic scale of higher-order contagions using generalized approximate master equations"
-    authors : "Giulio Burgio, Guillaume St-Onge, Laurent Hébert-Dufresne"
-    arxiv : "https://arxiv.org/abs/2307.11268"
-    year : 2023
     insubmission : true
 
   - title : "Detecting structural perturbations from time series with deep learning"
@@ -19,6 +37,14 @@ preprints:
 
 
 articles:
+  - title : "A vision for estimation of the instantaneous reproductive number"
+    authors : "Chad W. Milando, George G. Vega Yon, Kaitlyn Johnson, Alessandra Urbinati, Guillaume St-Onge, Brennan Klein, Anne Cori, Laura F. White, Rt Collabathon participants"
+    fulltext : "https://doi.org/10.1016/j.epidem.2026.100885"
+    volume : 54
+    pagenumber : 100885
+    year : 2026
+    journal : Epidemics
+
   - title : "Pandemic monitoring with global aircraft-based wastewater surveillance networks"
     authors : "Guillaume St-Onge, Jessica T. Davis, Laurent Hébert-Dufresne, Antoine Allard, Alessandra Urbinati, Samuel V. Scarpino, Matteo Chinazzi, Alessandro Vespignani"
     fulltext : "https://doi.org/10.1038/s41591-025-03501-4"
