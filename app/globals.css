@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: #faf8f2; /* egg-white / cream page */
-  --surface: #f1ece1; /* warm band: header, footer, cards, inputs */
+  --background: #fdfbf5; /* egg-white / cream page */
+  --surface: #f4efe4; /* warm band: header, footer, cards, inputs */
   --foreground: #1f1c17; /* warm near-black */
   --muted: #6f6a5f;
   --border: #e7e1d4;
