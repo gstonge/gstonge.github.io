@@ -1,5 +1,10 @@
 .DS_Store
-config.codekit
-.sass-cache/
-_site/
-.jekyll-cache/
+
+# Next.js
+/node_modules
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+npm-debug.log*
+.env*.local

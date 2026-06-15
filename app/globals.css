@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --background: #faf8f2; /* egg-white / cream page */
+  --surface: #f1ece1; /* warm band: header, footer, cards, inputs */
+  --foreground: #1f1c17; /* warm near-black */
+  --muted: #6f6a5f;
+  --border: #e7e1d4;
+
+  /* Accent color — change these three to re-theme the whole site.
+     Current: teal. Alternatives:
+       Ocean blue   #2563eb / hover #1d4ed8 / soft rgba(37,99,235,.1)
+       Terracotta   #c2410c / hover #9a3412 / soft rgba(194,65,12,.1)
+       Graphite     #3f3f46 / hover #27272a / soft rgba(63,63,70,.1) */
+  --accent: #0d9488;
+  --accent-hover: #0f766e;
+  --accent-soft: rgba(13, 148, 136, 0.1);
+}
+
+/* Map CSS variables to Tailwind tokens so utilities like bg-background,
+   text-foreground, text-muted, border-border, text-accent work. */
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-soft: var(--accent-soft);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-newsreader), ui-serif, Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* Sensible defaults for prose rendered from markdown (about, news). */
+.prose-body a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent);
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.prose-body a:hover {
+  color: var(--accent-hover);
+  border-bottom-color: var(--accent);
+}
+.prose-body p {
+  margin-bottom: 1rem;
+}
+.prose-body p:last-child {
+  margin-bottom: 0;
+}
+
+::selection {
+  background: var(--accent-soft);
+}
