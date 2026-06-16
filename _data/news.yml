@@ -1,21 +1,164 @@
 # Home-page "News & activity" feed, newest first.
-# `text` accepts inline markdown (e.g. *italics*); `url` is optional.
+# Each item needs a `date` plus one of these shapes:
+#
+#   type: article    ->  "New article in <journal>: <title>"   (title, journal, url)
+#   type: preprint   ->  "New preprint: <title>"               (title, url)
+#   type: note       ->  free text, inline markdown ok         (text; url optional -> ↗)
+#
+# Title/journal are shown verbatim — no quotes needed; the title is the link.
+# Journal names are written in full here (the Publications page abbreviates them).
+
+# ---- 2026 ----
 - date: "June 2026"
-  text: "New article in *Epidemics*: \"A vision for estimation of the instantaneous reproductive number.\""
+  type: article
+  title: "A vision for estimation of the instantaneous reproductive number"
+  journal: "Epidemics"
   url: "https://doi.org/10.1016/j.epidem.2026.100885"
 
 - date: "June 2026"
-  text: "At NetSci 2026 — the International School and Conference on Network Science."
+  type: note
+  text: "Satellite chair for NetSci 2026 — the International School and Conference on Network Science."
   url: "https://www.netsci2026.com/"
 
 - date: "May 2026"
-  text: "New preprint: \"Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions.\""
+  type: preprint
+  title: "The impact of behavioral homophily and conformity on epidemic spreading in networks with large groups"
+  url: "https://arxiv.org/abs/2605.25875"
+
+- date: "May 2026"
+  type: preprint
+  title: "Simpson's paradox explains the ubiquity of nonlinear, threshold, and complex contagions"
   url: "https://arxiv.org/abs/2605.00791"
 
+- date: "March 2026"
+  type: preprint
+  title: "Group dynamics shape contagion onsets and multistable active phases under collective reinforcement"
+  url: "https://arxiv.org/abs/2603.28566"
+
 - date: "February 2026"
-  text: "New preprint on airport wastewater surveillance and ICU genomic monitoring for pandemic preparedness."
+  type: preprint
+  title: "A multi-scale model to evaluate airport wastewater surveillance and ICU genomic monitoring for pandemic preparedness"
   url: "https://doi.org/10.64898/2026.02.27.26347250"
 
+# ---- 2025 ----
+- date: "December 2025"
+  type: note
+  text: "Co-organized the special session “The Art of Epidemics: Data Storytelling through Effective Visualizations” at Epidemics 10."
+  url: "https://artofepidemics.wixsite.com/epidemics10"
+
+- date: "September 2025"
+  type: article
+  title: "One pathogen does not an epidemic make: A review of interacting contagions, diseases, beliefs, and stories"
+  journal: "npj Complexity"
+  url: "https://doi.org/10.1038/s44260-025-00050-2"
+
 - date: "May 2025"
-  text: "\"Pandemic monitoring with global aircraft-based wastewater surveillance networks\" out in *Nature Medicine*."
+  type: article
+  title: "Characteristic scales and adaptation in higher-order contagions"
+  journal: "Nature Communications"
+  url: "https://doi.org/10.1038/s41467-025-59777-0"
+
+- date: "May 2025"
+  type: article
+  title: "Pandemic monitoring with global aircraft-based wastewater surveillance networks"
+  journal: "Nature Medicine"
   url: "https://doi.org/10.1038/s41591-025-03501-4"
+
+- date: "January 2025"
+  type: preprint
+  title: "Evaluation of stochastic trajectory-based epidemic models using the energy score"
+  url: "https://doi.org/10.1101/2025.01.13.25320493"
+
+# ---- 2024 ----
+- date: "September 2024"
+  type: note
+  text: "Co-organized the Epistorm Rt-Estimate Collabathon 2024."
+  url: "https://www.epistorm.org/collabathon2024"
+
+- date: "August 2024"
+  type: note
+  text: "At the “Quantitative Methods for Dynamics on Networks” workshop at Los Alamos National Laboratory."
+  url: "https://web.cvent.com/event/f7ca64bc-7839-4911-bf0b-f37522c84809/summary"
+
+- date: "June 2024"
+  type: note
+  text: "Satellite and School chair for NetSci 2024."
+  url: "https://netsci2024.com/en"
+
+- date: "March 2024"
+  type: article
+  title: "Ensemble²: Scenarios ensembling for communication and performance analysis"
+  journal: "Epidemics"
+  url: "https://doi.org/10.1016/j.epidem.2024.100748"
+
+# ---- 2023 ----
+- date: "December 2023"
+  type: article
+  title: "Nonlinear bias toward complex contagion in uncertain transmission settings"
+  journal: "Proceedings of the National Academy of Sciences"
+  url: "https://doi.org/10.1073/pnas.2312202121"
+
+- date: "July 2023"
+  type: article
+  title: "Hierarchical team structure and multidimensional localization (or siloing) on networks"
+  journal: "Journal of Physics: Complexity"
+  url: "https://doi.org/10.1088/2632-072X/ace602"
+
+# ---- 2022 ----
+- date: "March 2022"
+  type: article
+  title: "Source-sink behavioural dynamics limit institutional evolution in a group-structured society"
+  journal: "Royal Society Open Science"
+  url: "https://doi.org/10.1098/rsos.211743"
+
+- date: "January 2022"
+  type: article
+  title: "Influential groups for seeding and sustaining nonlinear contagion in heterogeneous hypergraphs"
+  journal: "Communications Physics"
+  url: "https://doi.org/10.1038/s42005-021-00788-w"
+
+# ---- 2021 ----
+- date: "October 2021"
+  type: article
+  title: "Universal Nonlinear Infection Kernel from Heterogeneous Exposure on Higher-Order Networks"
+  journal: "Physical Review Letters"
+  url: "https://doi.org/10.1103/PhysRevLett.127.158301"
+
+- date: "July 2021"
+  type: note
+  text: "At Networks 2021 — the joint Sunbelt and NetSci conference."
+  url: "https://networks2021.net/"
+
+- date: "May 2021"
+  type: note
+  text: "At SIAM DS21 — the SIAM Conference on Applications of Dynamical Systems."
+  url: "https://www.siam.org/conferences/cm/conference/ds21"
+
+- date: "March 2021"
+  type: article
+  title: "Social Confinement and Mesoscopic Localization of Epidemics on Networks"
+  journal: "Physical Review Letters"
+  url: "https://doi.org/10.1103/PhysRevLett.126.098301"
+
+- date: "March 2021"
+  type: article
+  title: "Master equation analysis of mesoscopic localization in contagion dynamics on higher-order networks"
+  journal: "Physical Review E"
+  url: "https://doi.org/10.1103/PhysRevE.103.032301"
+
+- date: "March 2021"
+  type: note
+  text: "At NERCCS 2021 — the Northeast Regional Conference on Complex Systems."
+  url: "https://nerccs2021.github.io"
+
+- date: "February 2021"
+  type: article
+  title: "Localization, epidemic transitions, and unpredictability of multistrain epidemics with an underlying genotype network"
+  journal: "PLOS Computational Biology"
+  url: "https://doi.org/10.1371/journal.pcbi.1008606"
+
+- date: "January 2021"
+  type: article
+  title: "Inference, Model Selection, and the Combinatorics of Growing Trees"
+  journal: "Physical Review Letters"
+  url: "https://doi.org/10.1103/PhysRevLett.126.038301"

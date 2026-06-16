@@ -30,6 +30,13 @@ export interface PublicationsData {
 
 export interface NewsItem {
   date: string;
-  text: string;
+  // "article" -> New article in <journal>: <title>
+  // "preprint" -> New preprint: <title>
+  // "note" (or omitted) -> free text (inline markdown ok)
+  type?: "article" | "preprint" | "note";
+  title?: string;
+  journal?: string;
+  text?: string;
   url?: string;
+  html?: string; // note text pre-rendered to HTML at build time
 }

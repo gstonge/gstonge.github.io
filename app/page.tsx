@@ -2,12 +2,19 @@ import Image from "next/image";
 import { marked } from "marked";
 import { FiFileText, FiMapPin } from "react-icons/fi";
 import SocialLinks from "@/components/SocialLinks";
+import NewsFeed from "@/components/NewsFeed";
 import { getAboutHtml, getNews } from "@/lib/data";
 import { site } from "@/lib/site";
 
 export default function Home() {
   const aboutHtml = getAboutHtml();
-  const news = getNews();
+  // Pre-render note markdown to HTML on the server; the paginated feed is a client component.
+  const news = getNews().map((item) => ({
+    ...item,
+    html: item.text
+      ? (marked.parseInline(item.text, { async: false }) as string)
+      : undefined,
+  }));
 
   return (
     <div className="mx-auto max-w-5xl px-6">
@@ -97,38 +104,7 @@ export default function Home() {
         <h2 className="mb-6 font-serif text-2xl font-medium tracking-tight">
           News &amp; activity
         </h2>
-        <ul className="space-y-5">
-          {news.map((item, i) => (
-            <li
-              key={i}
-              className="grid gap-1 sm:grid-cols-[8rem_1fr] sm:gap-6"
-            >
-              <span className="pt-0.5 text-sm font-medium text-muted">
-                {item.date}
-              </span>
-              <span className="text-base leading-relaxed">
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: marked.parseInline(item.text, { async: false }) as string,
-                  }}
-                />
-                {item.url && (
-                  <>
-                    {" "}
-                    <a
-                      href={item.url}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="text-accent underline-offset-2 hover:underline"
-                    >
-                      ↗
-                    </a>
-                  </>
-                )}
-              </span>
-            </li>
-          ))}
-        </ul>
+        <NewsFeed items={news} />
       </section>
 
     </div>
