@@ -6,7 +6,6 @@ export type SocialKey =
   | "scholar"
   | "github"
   | "bluesky"
-  | "twitter"
   | "linkedin"
   | "orcid";
 
@@ -64,7 +63,6 @@ export const site = {
       name: "Bluesky",
       url: "https://bsky.app/profile/gstonge.bsky.social",
     },
-    { key: "twitter", name: "X / Twitter", url: "https://twitter.com/stonge_g" },
     {
       key: "linkedin",
       name: "LinkedIn",

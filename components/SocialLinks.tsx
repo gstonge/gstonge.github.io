@@ -1,5 +1,5 @@
 import type { IconType } from "react-icons";
-import { FaGithub, FaLinkedinIn, FaOrcid, FaXTwitter } from "react-icons/fa6";
+import { FaGithub, FaLinkedinIn, FaOrcid } from "react-icons/fa6";
 import { FiMail } from "react-icons/fi";
 import { SiBluesky, SiGooglescholar } from "react-icons/si";
 import { site, type SocialKey } from "@/lib/site";
@@ -9,7 +9,6 @@ const icons: Record<SocialKey, IconType> = {
   scholar: SiGooglescholar,
   github: FaGithub,
   bluesky: SiBluesky,
-  twitter: FaXTwitter,
   linkedin: FaLinkedinIn,
   orcid: FaOrcid,
 };
