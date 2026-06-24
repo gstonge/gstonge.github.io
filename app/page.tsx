@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { marked } from "marked";
-import { FiFileText, FiMapPin } from "react-icons/fi";
+import { FiFileText } from "react-icons/fi";
 import SocialLinks from "@/components/SocialLinks";
 import NewsFeed from "@/components/NewsFeed";
 import { getAboutHtml, getNews } from "@/lib/data";
@@ -92,9 +92,6 @@ export default function Home() {
           className="prose-body max-w-3xl text-base leading-relaxed text-foreground/90"
           dangerouslySetInnerHTML={{ __html: aboutHtml }}
         />
-        <p className="mt-6 flex items-center gap-2 text-sm text-muted">
-          <FiMapPin size={15} /> {site.location}
-        </p>
       </section>
 
       <hr className="border-border" />

@@ -59,7 +59,7 @@ export default function NewsFeed({ items }: { items: NewsItem[] }) {
                   <span dangerouslySetInnerHTML={{ __html: item.html ?? "" }} />
                   {item.url && (
                     <>
-                      {" "}
+                      {"\u00A0"}
                       <a
                         href={item.url}
                         target="_blank"

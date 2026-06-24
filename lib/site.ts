@@ -26,7 +26,6 @@ export const site = {
   role: "Research Assistant Professor",
   shortBio:
     "I build mathematical models and computational tools to better predict, monitor, and control contagion dynamics in interconnected systems.",
-  location: "Roux Institute, Portland ME, USA",
   email: "g.st-onge@northeastern.edu",
   photo: "/assets/images/headshot_v4.jpg",
   cv: {
