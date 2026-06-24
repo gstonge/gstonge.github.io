@@ -26,7 +26,7 @@ export const site = {
   name: "Guillaume St-Onge",
   role: "Research Assistant Professor",
   shortBio:
-    "I build mathematical and computational models of epidemics and social contagions — from higher-order network dynamics to global biosurveillance and pandemic forecasting.",
+    "I build mathematical models and computational tools to better predict, monitor, and control contagion dynamics in interconnected systems.",
   location: "Roux Institute, Portland ME, USA",
   email: "g.st-onge@northeastern.edu",
   photo: "/assets/images/headshot_v4.jpg",

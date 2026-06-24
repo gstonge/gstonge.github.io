@@ -9,7 +9,7 @@ export default function TeachingPage() {
     <div className="mx-auto max-w-5xl px-6 py-16">
       <h1 className="font-serif text-4xl font-semibold tracking-tight">Teaching</h1>
       <p className="mt-3 max-w-2xl text-muted">
-        Course materials are coming soon. For now, here are open lecture notes I
+        Course materials are coming soon. For now, here is a sourcebook I
         contribute to.
       </p>
 
@@ -33,7 +33,7 @@ export default function TeachingPage() {
             <div>
               <h2 className="font-medium text-foreground">cosmo-notes</h2>
               <p className="mt-1 text-sm text-muted">
-                Open notes on complex systems &amp; computational modeling
+                Lecture notes on complex systems modeling
               </p>
             </div>
             <FiArrowUpRight
