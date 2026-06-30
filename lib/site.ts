@@ -23,10 +23,10 @@ export interface Education {
 
 export const site = {
   name: "Guillaume St-Onge",
-  role: "Research Assistant Professor",
+  role: "Assistant Professor",
   shortBio:
     "I build mathematical models and computational tools to better predict, monitor, and control contagion dynamics in interconnected systems.",
-  email: "g.st-onge@northeastern.edu",
+  email: "gstonge@uottawa.ca",
   photo: "/assets/images/headshot_v4.jpg",
   cv: {
     en: "/assets/resume/st-onge_cv_en.pdf",
@@ -35,13 +35,8 @@ export const site = {
   // Affiliations rendered as inline links in the hero.
   affiliations: [
     {
-      label: "Department of Physics, Northeastern University",
-      url: "https://cos.northeastern.edu/physics/",
-    },
-    { label: "Roux Institute", url: "https://roux.northeastern.edu/" },
-    {
-      label: "Network Science Institute",
-      url: "https://www.networkscienceinstitute.org/",
+      label: "School of Electrical Engineering and Computer Science, University of Ottawa",
+      url: "https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science",
     },
   ],
   education: [
@@ -50,7 +45,7 @@ export const site = {
     { degree: "B.Sc. Physics", institution: "Université Laval", years: "2012–2015" },
   ] as Education[],
   social: [
-    { key: "email", name: "Email", url: "mailto:g.st-onge@northeastern.edu" },
+    { key: "email", name: "Email", url: "mailto:gstonge@uottawa.ca" },
     {
       key: "scholar",
       name: "Google Scholar",

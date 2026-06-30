@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     template: `%s · ${site.name}`,
   },
   description:
-    "Guillaume St-Onge — Research Assistant Professor modeling epidemics, social contagions, and complex networks at Northeastern University.",
+    "Guillaume St-Onge — Assistant Professor modeling epidemics, social contagions, and complex networks at the University of Ottawa.",
   openGraph: {
     title: site.name,
     description: site.shortBio,

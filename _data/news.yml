@@ -9,6 +9,10 @@
 # Journal names are written in full here (the Publications page abbreviates them).
 
 # ---- 2026 ----
+- date: "July 2026"
+  type: note
+  text: "Joined the [School of Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa as an Assistant Professor."
+
 - date: "June 2026"
   type: article
   title: "A vision for estimation of the instantaneous reproductive number"
