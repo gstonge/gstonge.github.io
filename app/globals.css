@@ -58,6 +58,35 @@ body {
 .prose-body p:last-child {
   margin-bottom: 0;
 }
+/* Subsection heading within prose (e.g. "Research areas" in About). */
+.prose-body h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.85rem;
+  font-family: var(--font-serif);
+  font-size: 1.2rem;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  color: var(--foreground);
+}
+/* Bulleted lists within prose (preflight strips these to no-marker by default). */
+.prose-body ul {
+  margin: 0 0 1rem;
+  padding-left: 1.15rem;
+  list-style: disc;
+}
+.prose-body li {
+  margin-bottom: 0.6rem;
+}
+.prose-body li:last-child {
+  margin-bottom: 0;
+}
+.prose-body li::marker {
+  color: var(--accent);
+}
+.prose-body strong {
+  font-weight: 600;
+  color: var(--foreground);
+}
 
 ::selection {
   background: var(--accent-soft);
