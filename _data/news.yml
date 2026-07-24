@@ -10,6 +10,12 @@
 
 # ---- 2026 ----
 - date: "July 2026"
+  type: article
+  title: "Evaluation of stochastic trajectory-based epidemic models using the energy score"
+  journal: "Epidemics"
+  url: "https://doi.org/10.1016/j.epidem.2026.100929"
+
+- date: "July 2026"
   type: note
   text: "Joined the [School of Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa as an Assistant Professor."
 
