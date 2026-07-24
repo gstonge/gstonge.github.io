@@ -23,12 +23,6 @@ preprints:
     year : 2026
     insubmission : true
 
-  - title : "Evaluation of stochastic trajectory-based epidemic models using the energy score"
-    authors : "Clara Bay, Kunpeng Mu, Guillaume St-Onge, Matteo Chinazzi, Jessica T. Davis, Alessandro Vespignani"
-    arxiv : "https://doi.org/10.1101/2025.01.13.25320493"
-    year : 2025
-    insubmission : true
-
   - title : "Detecting structural perturbations from time series with deep learning"
     authors : "Edward Laurence, Charles Murphy, Guillaume St-Onge, Xavier Roy-Pomerleau, Vincent Thibeault"
     arxiv : "https://arxiv.org/abs/2006.05232"
@@ -37,6 +31,15 @@ preprints:
 
 
 articles:
+  - title : "Evaluation of stochastic trajectory-based epidemic models using the energy score"
+    authors : "Clara Bay, Kunpeng Mu, Guillaume St-Onge, Matteo Chinazzi, Jessica T. Davis, Alessandro Vespignani"
+    fulltext : "https://doi.org/10.1016/j.epidem.2026.100929"
+    medrxiv : "https://doi.org/10.1101/2025.01.13.25320493"
+    volume : 56
+    pagenumber : 100929
+    year : 2026
+    journal : Epidemics
+
   - title : "A vision for estimation of the instantaneous reproductive number"
     authors : "Chad W. Milando, George G. Vega Yon, Kaitlyn Johnson, Alessandra Urbinati, Guillaume St-Onge, Brennan Klein, Anne Cori, Laura F. White, Rt Collabathon participants"
     fulltext : "https://doi.org/10.1016/j.epidem.2026.100885"
