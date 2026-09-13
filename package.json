@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.3.2",
     "marked": "^15.0.7",
     "next": "^15.2.4",
     "react": "^19.0.0",
