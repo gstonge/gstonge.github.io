@@ -1,5 +1,5 @@
-I am an Assistant Professor in the [School of Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa, and an Affiliate Faculty member in the [Department of Physics](https://cos.northeastern.edu/physics/) and at the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University.
-My research focuses on **contagion dynamics**, such as the spread of infectious diseases and social behaviors, and how they are mediated by complex networks.
+I am an Assistant Professor in the [School of Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa. I am also an Affiliate Faculty member of the [Department of Physics](https://cos.northeastern.edu/physics/) and the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University.
+My research focuses on **contagion dynamics**, such as the spread of infectious diseases and social behaviors, and how they are mediated by **complex networks**.
 I develop models and computational methods drawing on stochastic processes, dynamical systems, network science, and Bayesian inference.
 
 I completed an M.Sc. and Ph.D. in Physics at Université Laval as part of the [Dynamica Research Lab](https://dynamicalab.github.io/), and I was a visiting graduate student at the Vermont Complex Systems Institute in the [Joint Lab](https://joint-lab.github.io/).
@@ -8,5 +8,6 @@ Before joining uOttawa, I was at Northeastern University, first as a postdoc in 
 ### Research areas
 
 - **Theory of contagion dynamics:** mathematical framework for contagion on networks; branching processes and probability generating functions (see [cosmo-notes](/teaching)); mapping of dynamical and statistical equivalences across contagion mechanisms
-- **Applications to infectious diseases:** prediction of the spatial spread of pathogens; real-time forecasting of epidemics; optimization and inference methods for global sentinel surveillance systems; modeling and integration of wastewater surveillance data
+- **Network modeling and inference:** random graph models; inference of network structure and its evolution; higher-order and modular organization
+- **Computational epidemiology:** prediction of the spatial spread of pathogens; real-time forecasting of epidemics; optimization and inference methods for global sentinel surveillance systems; modeling and integration of wastewater surveillance data
 
