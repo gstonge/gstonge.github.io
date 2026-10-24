@@ -1,4 +1,10 @@
 preprints:
+  - title : "Probability generating functions for epidemiological time series"
+    authors : "Mariah C. Boudreau, Guillaume St-Onge"
+    arxiv : "https://arxiv.org/abs/2610.17138"
+    year : 2026
+    insubmission : true
+
   - title : "The impact of behavioral homophily and conformity on epidemic spreading in networks with large groups"
     authors : "Olivier Ribordy, Clara Granell, Guillaume St-Onge, Laurent Hébert-Dufresne, Alex Arenas, Antoine Allard"
     arxiv : "https://arxiv.org/abs/2605.25875"

@@ -9,6 +9,11 @@
 # Journal names are written in full here (the Publications page abbreviates them).
 
 # ---- 2026 ----
+- date: "October 2026"
+  type: preprint
+  title: "Probability generating functions for epidemiological time series"
+  url: "https://arxiv.org/abs/2610.17138"
+
 - date: "July 2026"
   type: article
   title: "Evaluation of stochastic trajectory-based epidemic models using the energy score"
