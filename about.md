@@ -1,4 +1,4 @@
-I am an Assistant Professor in the [School of Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa.
+I am an Assistant Professor in the [School of Electrical Engineering and Computer Science](https://www.uottawa.ca/faculty-engineering/school-electrical-engineering-computer-science) at the University of Ottawa, and an Affiliate Faculty member in the [Department of Physics](https://cos.northeastern.edu/physics/) and at the [Network Science Institute](https://www.networkscienceinstitute.org/) at Northeastern University.
 My research focuses on **contagion dynamics**, such as the spread of infectious diseases and social behaviors, and how they are mediated by complex networks.
 I develop models and computational methods drawing on stochastic processes, dynamical systems, network science, and Bayesian inference.
 
