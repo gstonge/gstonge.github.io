@@ -8,6 +8,6 @@ Before joining uOttawa, I was at Northeastern University, first as a postdoc in 
 ### Research areas
 
 - **Theory of contagion dynamics:** mathematical framework for contagion on networks; branching processes and probability generating functions (see [cosmo-notes](/teaching)); mapping of dynamical and statistical equivalences across contagion mechanisms
-- **Network modeling and inference:** random graph models; inference of network structure and its evolution; higher-order and modular organization
+- **Network modeling and inference:** random graph models; inference of network structures and their evolution; higher-order and modular organization
 - **Computational epidemiology:** prediction of the spatial spread of pathogens; real-time forecasting of epidemics; optimization and inference methods for global sentinel surveillance systems; modeling and integration of wastewater surveillance data
 
